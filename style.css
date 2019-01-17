@@ -1,0 +1,220 @@
+:root {
+  --color-teal: #1FA898;
+  --color-dark-statusbar: black;
+  --color-dark-appbar: #212121;
+  --color-dark-background: #303030;
+  --color-dark-cards: #424242;
+  --color-dark-text: white;
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+}
+
+body {
+  font: 10px sans-serif;
+  overflow: auto;
+  height: 100%;
+  width: 100%;
+}
+
+main {
+
+}
+
+#svgContainer { width: 100%; height:80%; float:left; position: relative;}
+#histogram { height: 100%; float:left;}
+#legend {  height: 100%; float: left; position: relative;}
+#dataTableButton { display: none}
+
+.title {
+  background-color: var(--color-teal);
+  text-align: center;
+  padding: 0.5em;
+  height: 10%;
+}
+p {
+  font-size: 2em;
+  font-family: 'Comfortaa', sans-serif;
+}
+h1 {
+  font-weight: 400;
+  color: white;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 4em;
+}
+h2 {
+  font-family: 'Comfortaa', sans-serif;
+  color: #545454;
+  font-size: 2.25em;
+  padding-left: 1em;
+  font-weight: 400;
+}
+h3 {
+  font-family: 'Comfortaa', sans-serif;
+  color: #545454;
+  font-size: 2em;
+  font-weight: 400;
+}
+h4 {
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 2.5em;
+  color: white;
+}
+h5 {
+  font-family: 'Comfortaa', sans-serif;
+  font-weight: bolder;
+}
+
+.bottom-bar {
+  background-color: #1FA898;
+  text-align: center;
+  padding: 0.5em;
+
+}
+.step {
+  font-weight: 700;
+  border-bottom: 2px dashed var(--color-teal);
+}
+.chart-title {
+  color: #222;
+}
+
+.button-bar {
+  float:left;
+
+}
+
+.info {
+  text-align: left;
+  font-size: 1.5em;
+  font-family: "Comfortaa", sans-serif;
+}
+
+.button-container {
+  box-sizing: border-box;
+}
+
+.block {
+  display: block;
+  width: 95%;
+  border: none;
+  background-color: #4CAF50;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.bar rect {
+  shape-rendering: crispEdges;
+  padding: 1em;
+}
+
+.bar text {
+  fill: #999999;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+/* Style The Dropdown Button */
+.dropbtn {
+    border: 2px solid #1fa898;
+    background-color: white;
+    color: #1fa898;
+    padding: .8em;
+    margin: 0.25em;
+    font-size: 1.6em;
+    cursor: pointer;
+    display:block;
+}
+
+.submit {
+    border: none;
+    background-color: #0d0d40;
+    color: white;
+    padding: 1em;
+    margin: 0.25em;
+    font-size: 1.6em;
+    cursor: pointer;
+    display: block;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 1.2em 1.6em;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: var(--color-teal);
+    color: white;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 1em;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-size: 1.5em;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}
