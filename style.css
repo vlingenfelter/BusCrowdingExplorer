@@ -1,12 +1,24 @@
+/*
+* === VARIABLES ===
+*/
 :root {
   --color-teal: #1FA898;
+  --color-orange: #e58552;
+  /* dark scheme (what if analysis) colors */
   --color-dark-statusbar: black;
   --color-dark-appbar: #212121;
   --color-dark-background: #303030;
   --color-dark-cards: #424242;
   --color-dark-text: white;
+  /* light scheme (what if analysis) colors */
+  --color-light-background: #f5f5f5;
+  --color-light-cards: white;
+  --color-light-text: black;
 }
 
+/*
+* === MEDIA ===
+*/
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
@@ -30,191 +42,124 @@
 
 body {
   font: 10px sans-serif;
+  margin: 0;
   overflow: auto;
   height: 100%;
   width: 100%;
 }
-
-main {
-
-}
-
-#svgContainer { width: 100%; height:80%; float:left; position: relative;}
-#histogram { height: 100%; float:left;}
-#legend {  height: 100%; float: left; position: relative;}
-#dataTableButton { display: none}
+main { height: inherit;}
+header { background-color: var(-color--teal); }
 
 .title {
   background-color: var(--color-teal);
   text-align: center;
-  padding: 0.5em;
-  height: 10%;
+  padding: 0.25em;
+  color:  var(--color-dark-text);
 }
-p {
-  font-size: 2em;
-  font-family: 'Comfortaa', sans-serif;
-}
-h1 {
-  font-weight: 400;
-  color: white;
-  font-family: 'Comfortaa', sans-serif;
-  font-size: 4em;
-}
-h2 {
-  font-family: 'Comfortaa', sans-serif;
-  color: #545454;
-  font-size: 2.25em;
-  padding-left: 1em;
-  font-weight: 400;
-}
-h3 {
-  font-family: 'Comfortaa', sans-serif;
-  color: #545454;
-  font-size: 2em;
-  font-weight: 400;
-}
-h4 {
-  font-family: 'Comfortaa', sans-serif;
-  font-size: 2.5em;
-  color: white;
-}
-h5 {
-  font-family: 'Comfortaa', sans-serif;
-  font-weight: bolder;
-}
-
 .bottom-bar {
   background-color: #1FA898;
   text-align: center;
-  padding: 0.5em;
-
-}
-.step {
-  font-weight: 700;
-  border-bottom: 2px dashed var(--color-teal);
-}
-.chart-title {
-  color: #222;
+  padding: 1em;
 }
 
-.button-bar {
+h1 {font-family: 'Comfortaa', sans-serif; font-size: 5em;}
+h2 {font-family: 'Comfortaa', sans-serif; font-size: 2.5em;}
+h3 {font-family: 'Comfortaa', sans-serif; }
+h4 {font-family: 'Comfortaa', sans-serif; }
+h5 {font-family: 'Comfortaa', sans-serif; }
+h6 {font-family: 'Comfortaa', sans-serif; }
+p {font-family: 'Comfortaa', sans-serif; font-size: 2em; line-height: 1.5}
+
+a {font-family: 'Comfortaa', sans-serif; position: relative; text-decoration: none;}
+a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-orange);
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+/* */
+.panel {
   float:left;
-
+  text-align: center;
+  height: 70vh;
 }
+/* */
+.panel.real { background-color: var(--color-light-background);}
+.panel.what-if { background-color: var(--color-dark-background); }
 
-.info {
-  text-align: left;
-  font-size: 1.5em;
-  font-family: "Comfortaa", sans-serif;
-}
-
-.button-container {
-  box-sizing: border-box;
-}
-
-.block {
-  display: block;
-  width: 95%;
-  border: none;
-  background-color: #4CAF50;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
+/* card that contains info for  */
+.card {
+  transition: 0.3s;
+  padding: 1em;
+  margin: 5em auto;
+  width: 80%;
+  height: 70%;
   text-align: center;
 }
+/* change drop shadow opacity for both light and dark scheme */
+.card.real {background-color: var(--color-light-cards); box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);}
+.card.what-if { background-color: var(--color-dark-cards); box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);}
+/* On mouse-over, add a deeper shadow */
+.card:hover.real {box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);}
+.card:hover.what-if {  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);}
 
-.bar rect {
-  shape-rendering: crispEdges;
-  padding: 1em;
+/* opening text (will eventually be links) */
+a.opener{font-size: 7em; font-weight:700;top:40%;}
+a.opener.real { color: var(--color-light-text)}
+a.opener.what-if { color: var(--color-dark-text)}
+
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
 
-.bar text {
-  fill: #999999;
-}
-
-.axis path, .axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-/* Style The Dropdown Button */
-.dropbtn {
-    border: 2px solid #1fa898;
-    background-color: white;
-    color: #1fa898;
-    padding: .8em;
-    margin: 0.25em;
-    font-size: 1.6em;
-    cursor: pointer;
-    display:block;
-}
-
-.submit {
-    border: none;
-    background-color: #0d0d40;
-    color: white;
-    padding: 1em;
-    margin: 0.25em;
-    font-size: 1.6em;
-    cursor: pointer;
-    display: block;
-}
-
-/* The container <div> - needed to position the dropdown content */
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-    color: black;
-    padding: 1.2em 1.6em;
-    text-decoration: none;
-    display: block;
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {
-    background-color: var(--color-teal);
-    color: white;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  width: 100%;
-  border: 1px solid #ddd;
-}
-
-th, td {
+/* Modal Content/Box */
+.modal-content {
   text-align: left;
-  padding: 1em;
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 2em;
+  border: 1px solid #888;
+  width: 70%; /* Could be more or less, depending on screen size */
+  color: var(--color-light-text);
 }
 
-th {
-  background-color: #f2f2f2;
-  font-size: 1.5em;
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
 }
 
-tr:nth-child(even) {
-  background-color: #f2f2f2
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
 }
