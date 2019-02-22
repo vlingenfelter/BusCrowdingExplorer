@@ -10,7 +10,7 @@
   --color-dark-background: #303030;
   --color-dark-cards: #424242;
   --color-dark-text: white;
-  /* light scheme (what if analysis) colors */
+  /* light scheme (for real data) colors */
   --color-light-background: #f5f5f5;
   --color-light-cards: white;
   --color-light-text: black;
@@ -38,6 +38,14 @@
   .col-10 {width: 83.33%;}
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
+
+  .row {
+    display:flex;
+  }
+
+  [class*="col-"] {
+    width: flex: 1;
+  }
 }
 
 body {
@@ -47,7 +55,7 @@ body {
   height: 100%;
   width: 100%;
 }
-main { height: inherit;}
+main { }
 header { background-color: var(-color--teal); }
 
 .title {
@@ -100,7 +108,7 @@ a:hover{
 .panel {
   float:left;
   text-align: center;
-  height: 70vh;
+  height: inherit;
 }
 /* */
 .panel.real { background-color: var(--color-light-background);}
