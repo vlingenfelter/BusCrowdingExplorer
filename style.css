@@ -53,7 +53,7 @@ header { background-color: var(-color--teal); }
 .title {
   background-color: var(--color-teal);
   text-align: center;
-  padding: 0.25em;
+  padding: 0.15em;
   color:  var(--color-dark-text);
 }
 .bottom-bar {
@@ -62,7 +62,7 @@ header { background-color: var(-color--teal); }
   padding: 1em;
 }
 
-h1 {font-family: 'Comfortaa', sans-serif; font-size: 5em;}
+h1 {font-family: 'Comfortaa', sans-serif; font-size: 4em;}
 h2 {font-family: 'Comfortaa', sans-serif; font-size: 2.5em;}
 h3 {font-family: 'Comfortaa', sans-serif; }
 h4 {font-family: 'Comfortaa', sans-serif; }
@@ -92,6 +92,10 @@ a:hover:before {
   transform: scaleX(1);
 }
 
+a:hover{
+  cursor: pointer;
+}
+
 /* */
 .panel {
   float:left;
@@ -104,19 +108,14 @@ a:hover:before {
 
 /* card that contains info for  */
 .card {
-  transition: 0.3s;
   padding: 1em;
-  margin: 5em auto;
-  width: 80%;
-  height: 70%;
+  margin: 3em auto;
+  width: 90%;
   text-align: center;
 }
 /* change drop shadow opacity for both light and dark scheme */
 .card.real {background-color: var(--color-light-cards); box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);}
 .card.what-if { background-color: var(--color-dark-cards); box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);}
-/* On mouse-over, add a deeper shadow */
-.card:hover.real {box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);}
-.card:hover.what-if {  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);}
 
 /* opening text (will eventually be links) */
 a.opener{font-size: 7em; font-weight:700;top:40%;}
@@ -163,3 +162,26 @@ a.opener.what-if { color: var(--color-dark-text)}
   text-decoration: none;
   cursor: pointer;
 }
+
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;

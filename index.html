@@ -5,7 +5,7 @@
   <title>Bus Crowding Explorer</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="../style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,700" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -18,31 +18,50 @@
 
   <main>
     <div class="col-12">
-      <div class="col-6 panel real" >
+      <div class="col-4 panel real" >
         <div class="card real">
-          <a class="opener real" href="real/real-data.html">
-            REAL DATA
-          </a>
+          <p>
+            <span>Control</span>
+            <!-- Trigger/Open The Modal -->
+            <a id="infoBtn"> Info <i class="fa fa-info-circle"></i></a>
+
+            <!-- The Modal -->
+            <div id="infoModal" class="modal">
+
+              <!-- Modal content -->
+              <div class="modal-content">
+                <span class="close">&times;</span>
+                <p>Some text in the Modal..</p>
+              </div>
+          </p>
+
+            
+
+          </div>
         </div>
       </div>
 
-      <div class="col-6 panel what-if">
-        <div class="card what-if">
-          <a class="opener what-if" href="#">
-            WHAT-IF
-          </a>
+
+      <div class="col-8 panel real">
+        <div class="card real">
         </div>
       </div>
     </div>
   </main>
 
   <footer class="bottom-bar">
-
-      <p style="color:white;margin-top:1em;"> Made with <i class = "fas fa-heart" style="color:#ffbaad"></i> by OPMI <br />
-      Processed with <i class="fas fa-coffee"></i> by interns </p>
+    <div>
+      <p style="color:white;margin-top:1em;"> Made with
+        <i class = "fas fa-heart" style="color:#ffbaad"></i>
+        by <a style="color:white;" href="http://www.mbtabackontrack.com">OPMI</a>
+        <br />
+      Processed with <i class="fas fa-coffee"></i> by
+      <a style="color:white;" href="https://www.violetlingenfelter.com">interns</a>
+    </p>
+    </div>
     </footer>
 
 </body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
-
+<script src="page-layout.js"></script>
 </html>
