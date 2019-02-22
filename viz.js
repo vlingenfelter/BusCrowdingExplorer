@@ -4,16 +4,29 @@
 // Declare initial variables
 // -------------------------
 // find width of view
+// TO DO:
+// figure out why mobile gets so tiny and fix this
 var w = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-w = w * .9;
 // define margin
 var margin = {
-    top: 50,
-    right: 50,
-    bottom: 150,
-    left: 50
-  },
-  width = w - margin.left - margin.right,
+  top: 30,
+  right: 30,
+  bottom: 30,
+  left: 30
+}
+// if (w >= 768) {
+//   w = w * .9;
+//   var margin = {
+//     top: 50,
+//     right: 50,
+//     bottom: 150,
+//     left: 50
+//   };
+// }
+
+
+
+var width = w - margin.left - margin.right,
   height = 1000 - margin.top - margin.bottom,
 
   // make an array of colors
@@ -167,7 +180,9 @@ function resize() {
   data = thisData;
   // update width based on the width of the chart element
   var w = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-  w = w * .9;
+  if (w >= 768) {
+    w = w * .9;
+  }
 
   // apply margins
   var width = w - margin.left - margin.right;

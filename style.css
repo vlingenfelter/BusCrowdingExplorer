@@ -77,13 +77,13 @@ h4 {font-family: 'Comfortaa', sans-serif; }
 h5 {font-family: 'Comfortaa', sans-serif; }
 h6 {font-family: 'Comfortaa', sans-serif; }
 p {font-family: 'Comfortaa', sans-serif; font-size: 2em; line-height: 1.5}
-
+i {color: var(--color-orange)}
 a {font-family: 'Comfortaa', sans-serif; position: relative; text-decoration: none;}
 a:before {
   content: "";
   position: absolute;
   width: 100%;
-  height: 4px;
+  height: 3px;
   bottom: 0;
   left: 0;
   background-color: var(--color-orange);
