@@ -42,20 +42,29 @@ var heatmapChart = function(tsvFile) {
       // important for refresh function used for resizing
       var timeLabelsGroup = svg.append('g').classed('x', true)
         .attr("transform", (d, i) => {
-          return "translate(" + (i * gridSizeX + 5) + ", -6)";
+          return "translate(" + (i * gridSizeX + 5) + ", -36)";
         });
       var timeLabels = timeLabelsGroup.selectAll(".timeLabel")
+        .append('g')
         .data(times)
         .enter().append("text")
         .text(function(d, i) { // right now it's just showing position not time seg
-          return i;
+          // TO DO
+          // regex times to make sure that modulo starts at 4 am and goes every 2 hours
+          if (((i + 1) % 4) == 0) {
+            return d;
+          }
         })
         .attr("x", function(d, i) { // time seg, position ---> where on grid it goes
           return i * gridSizeX;
         })
         .attr("y", 0)
         .style("text-anchor", "end")
-        .attr("transform", "translate(" + gridSizeX / 4 + ", -6)")
+        .attr("transform", function(d) {
+          var xRot = d3.select(this).attr("x");
+          var yRot = d3.select(this).attr("y");
+          return `rotate(-60, ${xRot}, ${yRot} )` //ES6 template literal to set x and y rotation points
+        })
         // give each text element the .xLab clas
         .classed('xLab', true);
 

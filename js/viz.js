@@ -15,9 +15,9 @@ var w = window.innerWidth || document.documentElement.clientWidth || document.bo
 w = parentWidth(document.getElementById('chart')) * 0.9;
 // define margin
 var margin = {
-  top: 30,
+  top: 50,
   right: 10,
-  bottom: 30,
+  bottom: 50,
   left: 30
 }
 // if (w >= 768) {
@@ -63,13 +63,7 @@ var width = w - margin.left - margin.right,
   datasets = ["heatmap/111.tsv", "data.tsv"];
 
 
-
-
-
-
-
-
-streamgraph("../streamgraph/111bysource.csv");
+// streamgraph("../streamgraph/111bysource.csv");
 // call heatmap on the tsv for the 111
 heatmapChart(datasets[0]);
 
@@ -98,14 +92,16 @@ function resize() {
     //  .attr("preserveAspectRatio", "xMinYMin meet")
     .attr("width", width);
 
-  // resize the labels for the time segements
   var timeLabels = svg.selectAll('.xLab');
   timeLabels.transition()
     .duration(100)
     .attr("x", function(d, i) {
       return i * gridSizeX;
     })
-    .attr("transform", "translate(" + gridSizeX / 4 + ", -6)");
+    .attr("transform", "translate(0, 0)")
+    .attr("transform", function(d, i) {
+      return `rotate(-60, ${i * gridSizeX}, ${0} )` //ES6 template literal to set x and y rotation points
+    });
 
   // select all rectangles and change their width
   var cards = svg.selectAll("rect");
