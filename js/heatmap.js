@@ -6,14 +6,26 @@ var heatmapChart = function(tsvFile) {
     // accessor
     function(d) {
       return {
-        day: +d.stop_id,
+        stoppair: {
+          last: +d.stop_id,
+          next: +d.nextstop
+        },
+        stop: +d.stop_id,
+        nextstop: +d.nextstop,
+        day: +d.stop_sequence,
         hour: d.halfhour,
-        value: (+d.paxhoursuncomfortable) / (+d.paxhourstotal)
+        value: (+d.paxhoursuncomfortable) / (+d.paxhourstotal),
+        checkpoint: d.checkpoint_or_stop_name
       };
     },
     // call back
     function(error, data) {
-
+      const distinctPairs = [...new Set(data.map(x => x.stoppair))];
+      const distinctStopID = [...new Set(data.map(x => x.day))];
+      const distinctValues = [...new Set(data.map(x => x.value))];
+      days = distinctStopID;
+      gridSizeY = Math.floor(height / distinctStopID.length);
+      console.log(distinctPairs);
       // make svg in the chart div
       var svg = d3.select("#chart").append("svg")
         .attr("width", width + margin.left + margin.right)
@@ -24,20 +36,27 @@ var heatmapChart = function(tsvFile) {
       // create group for stop ID labels
       var dayLabelsGroup = svg.append("g");
       var dayLabels = dayLabelsGroup.selectAll(".dayLabel")
-        .data(days)
+        .data(data)
         .enter().append("text")
         // anonymous function
         // TO DO: either get rid of this or make it a real function
         .text(function(d) {
-          return d;
+          return d.checkpoint;
         })
         .attr("x", 0)
         .attr("y", function(d, i) { // stop id, position ---> where on grid it goes
           return i * gridSizeY;
         })
         .style("text-anchor", "end")
-        .attr("transform", "translate(-6," + gridSizeX / 1.5 + ")");
+        .attr("transform", "translate(10," + gridSizeX / 1.5 + ")");
 
+      svg.append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 0 - (margin.left))
+        .attr("x", 0 - (height / 2))
+        .attr("dy", "1em")
+        .style("text-anchor", "middle")
+        .text("Stops");
       // create group for x axis labels
       // important for refresh function used for resizing
       var timeLabelsGroup = svg.append('g').classed('x', true)
@@ -70,13 +89,12 @@ var heatmapChart = function(tsvFile) {
 
 
       // find distinct stop ids in the data
-      const distinctStopID = [...new Set(data.map(x => x.day))];
       // find distinct half hours in the data
       const distinctHalfhour = [...new Set(data.map(x => x.hour))];
       // for testing:
       // console.log(distinctHalfhour);
       // console.log(distinctStopID);
-
+      testData = distinctHalfhour;
       // give each piece of data it's coordinates
       data.map(function(d) {
         d.day = 1 + distinctStopID.indexOf(d.day);
@@ -92,11 +110,18 @@ var heatmapChart = function(tsvFile) {
       // get rid of this eventually
       // refresh is dependent on this
       thisData = data;
+      var nestHour = d3.nest()
+        .key(function(d) {
+          return d.hour;
+        })
+        .entries(thisData);
+
+
 
       // scale the colors based on quantiles in the data
       // check with Anna to see if this is best approach
       var colorScale = d3.scale.quantile()
-        .domain([0, 1])
+        .domain([0, d3.max(distinctValues)])
         .range(colors);
 
       // create "cards" ---> rectangles that represent a segement on route at given time

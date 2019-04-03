@@ -33,7 +33,7 @@ var margin = {
 
 
 var width = w - margin.left - margin.right,
-  height = 1000 - margin.top - margin.bottom,
+  height = 1200 - margin.top - margin.bottom,
 
   // make an array of colors
   colors = ["#B30000", "#E34A33", "#FC8D59", "#FDBB84", "#FDD49E", "#FEF0D9"].reverse(),
@@ -60,7 +60,7 @@ var width = w - margin.left - margin.right,
   gridSizeX = Math.floor(width / times.length),
   gridSizeY = Math.floor(height / days.length),
   // datasets to pull from (to be replaced by back end)
-  datasets = ["heatmap/111.tsv", "data.tsv"];
+  datasets = ["heatmap/route1.tsv", "data.tsv"];
 
 
 // streamgraph("../streamgraph/111bysource.csv");

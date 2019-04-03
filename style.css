@@ -51,9 +51,10 @@
 body {
   font: 10px sans-serif;
   margin: 0;
-  overflow: auto;
+  overflow-y: auto;
   height: 100%;
   width: 100%;
+  overflow-x: hidden;
 }
 main { }
 header { background-color: var(-color--teal); }
