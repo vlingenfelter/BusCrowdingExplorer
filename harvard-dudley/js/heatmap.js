@@ -144,8 +144,6 @@ var heatmapChart = function(tsvFile) {
         .attr("class", "hour")
         .attr("width", ((gridSizeX * 3) / 4)) // width is currently 75% of grid size
         .attr("height", gridSizeY) // keeps the routes continuous
-        .style("stroke", "black")
-        .style("stroke-width", "0")
         .style("fill", function(d) { // color based on the value of the card
           if (d.value > 0) {
             return colorScale(d.value);
@@ -154,7 +152,6 @@ var heatmapChart = function(tsvFile) {
           }
         })
         .on("mouseover", function(d) {
-          d3.select(this).style("stroke-width", "2");
           div.transition()
             .duration(100)
             .style("opacity", 1);
@@ -163,7 +160,6 @@ var heatmapChart = function(tsvFile) {
             .style("top", (d3.event.pageY - 28) + "px");
         })
         .on("mouseout", function(d) {
-          d3.select(this).style("stroke-width", "0");
           div.transition()
             .duration(500)
             .style("opacity", 0);

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Bus Crowding Explorer</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="graphics/heart.png">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+</head>
+
+<body>
+  <header class="col-12 title">
+    <h1 class="title"> Bus Crowding Explorer </h1>
+  </header>
+
+  <main>
+    <div class="col-12 row">
+      <!-- Control Panel -->
+      <div class="col-4 panel real" >
+        <div class="card real">
+          <h2>
+            Control Panel
+          </h2>
+
+            <p>
+
+            <!-- Trigger/Open The Modal -->
+            <a id="infoBtn" style="justify:right"><i class="fa fa-info-circle"></i> Info</a>
+
+            <!-- The Modal -->
+            <div id="infoModal" class="modal">
+
+              <!-- Modal content -->
+              <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2>What's going on here?</h2>
+                <p>
+                   This will explain what crowding is.
+                </p>
+              </div>
+              </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- SVG -->
+      <div class="col-8 panel real" >
+        <div class="card real" id="chart-container">
+          <div id="chart"></div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="bottom-bar">
+    <div>
+      <p style="color:white;margin-top:1em;"> Made with
+        <i class = "fas fa-heart" style="color:#ffbaad"></i>
+        by <a style="color:white;" href="http://www.mbtabackontrack.com">OPMI</a>
+        <br />
+      Processed with <i class="fas fa-coffee" style="color:white;"></i> by
+      <a style="color:white;" href="https://github.com/vlingenfelter/BusCrowdingExplorer">interns</a>
+    </p>
+    </div>
+    </footer>
+
+</body>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="js/page-layout.js"></script>
+<script src="js/heatmap.js"></script>
+<script src="js/streamgraph.js"></script>
+<script src="js/viz.js"></script>
+</html>

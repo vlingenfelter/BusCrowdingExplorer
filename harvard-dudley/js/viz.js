@@ -60,7 +60,7 @@ var width = w - margin.left - margin.right,
   gridSizeX = Math.floor(width / times.length),
   gridSizeY = Math.floor(height / days.length),
   // datasets to pull from (to be replaced by back end)
-  datasets = ["heatmap/route1harvard.tsv", "data.tsv"];
+  datasets = ["heatmap/route1dudley.tsv"];
 
 var n = 6, // number of layers
   m = times.length, // number of samples per layer
@@ -84,7 +84,7 @@ var x = d3.scale.linear()
 
 var y = d3.scale.linear()
   .domain([0, 20])
-  .range([(height / 4), 0]);
+  .range([(height / 3), 0]);
 
 var color = d3.scale.ordinal()
   .range(colorrange);
@@ -107,7 +107,7 @@ var area = d3.svg.area()
 
 var svg = d3.select("#chart").append("svg")
   .attr("width", width)
-  .attr("height", (height / 4));
+  .attr("height", (height / 3));
 
 svg.selectAll("path")
   .data(layers0)
@@ -182,6 +182,7 @@ var streamgraph = function(csv) {
           d.value = 0;
         }
       });
+
       // get the column names
       sources = Object.keys(data0[0]);
       // set up crowding by source array
@@ -233,7 +234,7 @@ var streamgraph = function(csv) {
       crowding1 = stack(crowding1);
       streamData = data0;
 
-      transition(crowding0);
+      transition(crowding1);
     });
 };
 streamgraph("../streamgraph/1bysource.csv");
