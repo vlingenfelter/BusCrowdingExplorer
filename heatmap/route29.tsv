@@ -1,0 +1,1077 @@
+season	daytype	route_id	route_pattern_id	route_pattern_sort_order	direction_id	route_pattern_name	halfhour	stop_sequence	stop_id	checkpoint_id	checkpoint_or_stop_name	nextstop	paxhourstotal	paxhoursuncomfortable
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	6	11531	jasst	Jackson Square Station	1264	0.042	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	7	1264			1265	0.042	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	8	1265			1266	0.043	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	9	1266			1267	0.044	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	10	1267	egles	Egleston Square	10413	0.041	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	11	10413			11413	0.041	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	12	11413			17421	0.044	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	13	17421			17411	0.041	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.038	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	15	17401			17391	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	16	17391	frnpk	Franklin Park	415	0.053	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	17	415			416	0.051	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	18	416			417	0.06	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	19	417			419	0.048	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.04	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	21	1706			1708	0.041	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	22	1708			1709	0.034	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	23	1709			1710	0.035	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	24	1710			11712	0.032	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	26	1713			1714	0.013	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	27	1714	wellh	Wellington Hill	1716	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	28	1716			1717	0.006	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	29	1717			1718	0.003	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	30	1718			11719	0.003	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	31	11719			1720	0.003	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:00:00	32	1720			1721	0.002	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	6	11531	jasst	Jackson Square Station	1264	0.054	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	7	1264			1265	0.051	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	8	1265			1266	0.047	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	9	1266			1267	0.052	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	10	1267	egles	Egleston Square	10413	0.051	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	11	10413			11413	0.054	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	12	11413			17421	0.098	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	13	17421			17411	0.086	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.099	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	15	17401			17391	0.097	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	16	17391	frnpk	Franklin Park	415	0.149	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	17	415			416	0.186	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	18	416			417	0.27	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	19	417			419	0.151	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.198	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	21	1706			1708	0.136	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	22	1708			1709	0.139	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	23	1709			1710	0.183	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	24	1710			11712	0.254	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.15	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	26	1713			1714	0.13	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	27	1714	wellh	Wellington Hill	1716	0.202	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	28	1716			1717	0.112	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	29	1717			1718	0.087	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	30	1718			11719	0.081	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	31	11719			1720	0.082	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	32	1720			1721	0.121	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	6:30:00	33	1721			18511	0.12	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	6	11531	jasst	Jackson Square Station	1264	0.066	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	7	1264			1265	0.067	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	8	1265			1266	0.062	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	9	1266			1267	0.075	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	10	1267	egles	Egleston Square	10413	0.071	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	11	10413			11413	0.074	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	12	11413			17421	0.101	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	13	17421			17411	0.094	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.096	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	15	17401			17391	0.117	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	16	17391	frnpk	Franklin Park	415	0.158	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	17	415			416	0.173	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	18	416			417	0.284	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	19	417			419	0.182	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.245	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	21	1706			1708	0.211	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	22	1708			1709	0.247	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	23	1709			1710	0.32	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	24	1710			11712	0.466	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.266	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	26	1713			1714	0.228	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	27	1714	wellh	Wellington Hill	1716	0.351	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	28	1716			1717	0.236	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	29	1717			1718	0.131	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	30	1718			11719	0.132	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	31	11719			1720	0.143	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	32	1720			1721	0.162	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:00:00	33	1721			18511	0.196	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	6	11531	jasst	Jackson Square Station	1264	0.129	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	7	1264			1265	0.122	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	8	1265			1266	0.123	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	9	1266			1267	0.096	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	10	1267	egles	Egleston Square	10413	0.093	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	11	10413			11413	0.101	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	12	11413			17421	0.111	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	13	17421			17411	0.103	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.123	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	15	17401			17391	0.125	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	16	17391	frnpk	Franklin Park	415	0.149	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	17	415			416	0.141	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	18	416			417	0.186	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	19	417			419	0.137	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.17	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	21	1706			1708	0.123	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	22	1708			1709	0.122	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	23	1709			1710	0.17	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	24	1710			11712	0.252	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.123	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	26	1713			1714	0.108	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	27	1714	wellh	Wellington Hill	1716	0.128	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	28	1716			1717	0.098	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	29	1717			1718	0.069	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	30	1718			11719	0.067	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	31	11719			1720	0.064	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	32	1720			1721	0.076	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	7:30:00	33	1721			18511	0.079	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	6	11531	jasst	Jackson Square Station	1264	0.136	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	7	1264			1265	0.125	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	8	1265			1266	0.113	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	9	1266			1267	0.103	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	10	1267	egles	Egleston Square	10413	0.097	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	11	10413			11413	0.101	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	12	11413			17421	0.123	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	13	17421			17411	0.119	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.135	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	15	17401			17391	0.147	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	16	17391	frnpk	Franklin Park	415	0.161	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	17	415			416	0.144	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	18	416			417	0.152	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	19	417			419	0.118	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.122	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	21	1706			1708	0.099	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	22	1708			1709	0.109	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	23	1709			1710	0.146	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	24	1710			11712	0.168	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.125	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	26	1713			1714	0.11	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	27	1714	wellh	Wellington Hill	1716	0.132	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	28	1716			1717	0.12	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	29	1717			1718	0.1	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	30	1718			11719	0.099	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	31	11719			1720	0.099	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	32	1720			1721	0.089	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:00:00	33	1721			18511	0.103	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	6	11531	jasst	Jackson Square Station	1264	0.102	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	7	1264			1265	0.106	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	8	1265			1266	0.106	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	9	1266			1267	0.096	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	10	1267	egles	Egleston Square	10413	0.087	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	11	10413			11413	0.089	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	12	11413			17421	0.093	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	13	17421			17411	0.087	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.114	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	15	17401			17391	0.11	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	16	17391	frnpk	Franklin Park	415	0.138	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	17	415			416	0.115	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	18	416			417	0.133	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	19	417			419	0.125	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.14	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	21	1706			1708	0.103	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	22	1708			1709	0.09	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	23	1709			1710	0.133	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	24	1710			11712	0.143	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.088	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	26	1713			1714	0.076	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	27	1714	wellh	Wellington Hill	1716	0.089	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	28	1716			1717	0.077	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	29	1717			1718	0.068	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	30	1718			11719	0.067	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	31	11719			1720	0.065	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	32	1720			1721	0.042	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	8:30:00	33	1721			18511	0.047	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	6	11531	jasst	Jackson Square Station	1264	0.129	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	7	1264			1265	0.076	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	8	1265			1266	0.063	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	9	1266			1267	0.063	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	10	1267	egles	Egleston Square	10413	0.06	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	11	10413			11413	0.078	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	12	11413			17421	0.091	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	13	17421			17411	0.07	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.088	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	15	17401			17391	0.09	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	16	17391	frnpk	Franklin Park	415	0.129	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	17	415			416	0.099	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	18	416			417	0.134	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	19	417			419	0.098	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.112	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	21	1706			1708	0.094	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	22	1708			1709	0.091	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	23	1709			1710	0.119	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	24	1710			11712	0.159	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.094	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	26	1713			1714	0.097	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	27	1714	wellh	Wellington Hill	1716	0.097	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	28	1716			1717	0.081	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	29	1717			1718	0.073	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	30	1718			11719	0.075	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	31	11719			1720	0.067	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	32	1720			1721	0.043	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:00:00	33	1721			18511	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	6	11531	jasst	Jackson Square Station	1264	0.059	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	7	1264			1265	0.104	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	8	1265			1266	0.097	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	9	1266			1267	0.097	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	10	1267	egles	Egleston Square	10413	0.089	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	11	10413			11413	0.087	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	12	11413			17421	0.136	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	13	17421			17411	0.091	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.117	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	15	17401			17391	0.116	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	16	17391	frnpk	Franklin Park	415	0.124	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	17	415			416	0.098	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	18	416			417	0.12	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	19	417			419	0.1	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.11	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	21	1706			1708	0.097	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	22	1708			1709	0.006	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	23	1709			1710	0.095	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	24	1710			11712	0.101	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.069	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	26	1713			1714	0.061	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	27	1714	wellh	Wellington Hill	1716	0.066	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	28	1716			1717	0.057	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	29	1717			1718	0.047	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	30	1718			11719	0.048	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	31	11719			1720	0.042	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	32	1720			1721	0.03	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	9:30:00	33	1721			18511	0.024	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	19	417			419	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.003	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	21	1706			1708	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	23	1709			1710	0.02	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	24	1710			11712	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	26	1713			1714	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	27	1714	wellh	Wellington Hill	1716	0.027	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	28	1716			1717	0.026	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	29	1717			1718	0.022	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	30	1718			11719	0.022	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	31	11719			1720	0.022	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	32	1720			1721	0.017	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:00:00	33	1721			18511	0.02	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	6	11531	jasst	Jackson Square Station	1264	0.103	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	7	1264			1265	0.101	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	8	1265			1266	0.103	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	9	1266			1267	0.102	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	10	1267	egles	Egleston Square	10413	0.097	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	11	10413			11413	0.104	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	12	11413			17421	0.094	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	13	17421			17411	0.077	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.092	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	15	17401			17391	0.084	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	16	17391	frnpk	Franklin Park	415	0.11	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	17	415			416	0.09	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	18	416			417	0.104	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	19	417			419	0.071	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.073	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	21	1706			1708	0.055	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	23	1709			1710	0.025	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	24	1710			11712	0.014	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.004	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	26	1713			1714	0.002	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	27	1714	wellh	Wellington Hill	1716	0.002	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	28	1716			1717	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	29	1717			1718	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	30	1718			11719	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	31	11719			1720	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	10:30:00	32	1720			1721	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	6	11531	jasst	Jackson Square Station	1264	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	7	1264			1265	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	8	1265			1266	0.002	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	9	1266			1267	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	10	1267	egles	Egleston Square	10413	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	11	10413			11413	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	12	11413			17421	0.01	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	13	17421			17411	0.01	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.011	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	15	17401			17391	0.011	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	16	17391	frnpk	Franklin Park	415	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	17	415			416	0.022	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	18	416			417	0.03	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	19	417			419	0.032	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.048	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	21	1706			1708	0.064	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	23	1709			1710	0.102	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	24	1710			11712	0.126	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.092	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	26	1713			1714	0.088	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	27	1714	wellh	Wellington Hill	1716	0.105	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	28	1716			1717	0.095	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	29	1717			1718	0.082	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	30	1718			11719	0.087	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	31	11719			1720	0.107	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	32	1720			1721	0.051	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:00:00	33	1721			18511	0.041	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	6	11531	jasst	Jackson Square Station	1264	0.08	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	7	1264			1265	0.077	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	8	1265			1266	0.08	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	9	1266			1267	0.077	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	10	1267	egles	Egleston Square	10413	0.074	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	11	10413			11413	0.077	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	12	11413			17421	0.082	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	13	17421			17411	0.064	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.061	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	15	17401			17391	0.056	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	16	17391	frnpk	Franklin Park	415	0.071	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	17	415			416	0.039	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	18	416			417	0.048	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	19	417			419	0.024	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.027	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	21	1706			1708	0.01	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	11:30:00	33	1721			18511	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	6	11531	jasst	Jackson Square Station	1264	0.018	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	7	1264			1265	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	8	1265			1266	0.02	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	9	1266			1267	0.025	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	10	1267	egles	Egleston Square	10413	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	11	10413			11413	0.034	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	12	11413			17421	0.037	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	13	17421			17411	0.031	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	15	17401			17391	0.054	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	16	17391	frnpk	Franklin Park	415	0.056	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	17	415			416	0.086	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	18	416			417	0.09	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	19	417			419	0.082	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.112	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	21	1706			1708	0.111	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	23	1709			1710	0.118	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	24	1710			11712	0.138	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.082	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	26	1713			1714	0.077	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	27	1714	wellh	Wellington Hill	1716	0.101	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	28	1716			1717	0.075	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	29	1717			1718	0.069	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	30	1718			11719	0.065	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	31	11719			1720	0.081	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	32	1720			1721	0.032	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:00:00	33	1721			18511	0.028	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	6	11531	jasst	Jackson Square Station	1264	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	7	1264			1265	0.01	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	8	1265			1266	0.003	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	23	1709			1710	0.01	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	24	1710			11712	0.012	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.008	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	26	1713			1714	0.004	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	27	1714	wellh	Wellington Hill	1716	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	28	1716			1717	0.003	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	29	1717			1718	0.003	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	30	1718			11719	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	31	11719			1720	0.009	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	32	1720			1721	0.003	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	12:30:00	33	1721			18511	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	6	11531	jasst	Jackson Square Station	1264	0.134	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	7	1264			1265	0.142	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	8	1265			1266	0.172	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	9	1266			1267	0.152	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	10	1267	egles	Egleston Square	10413	0.133	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	11	10413			11413	0.146	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	12	11413			17421	0.137	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	13	17421			17411	0.113	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.124	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	15	17401			17391	0.131	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	16	17391	frnpk	Franklin Park	415	0.164	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	17	415			416	0.16	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	18	416			417	0.188	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	19	417			419	0.124	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.186	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	21	1706			1708	0.135	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	23	1709			1710	0.113	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	24	1710			11712	0.136	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.081	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	26	1713			1714	0.085	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	27	1714	wellh	Wellington Hill	1716	0.104	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	28	1716			1717	0.066	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	29	1717			1718	0.043	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	30	1718			11719	0.036	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	31	11719			1720	0.039	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	32	1720			1721	0.009	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:00:00	33	1721			18511	0.006	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	19	417			419	0.003	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.008	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	21	1706			1708	0.002	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	23	1709			1710	0.018	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	24	1710			11712	0.036	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.022	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	26	1713			1714	0.023	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	27	1714	wellh	Wellington Hill	1716	0.042	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	28	1716			1717	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	29	1717			1718	0.042	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	30	1718			11719	0.056	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	31	11719			1720	0.088	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	32	1720			1721	0.034	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	13:30:00	33	1721			18511	0.032	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	6	11531	jasst	Jackson Square Station	1264	0.187	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	7	1264			1265	0.205	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	8	1265			1266	0.208	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	9	1266			1267	0.192	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	10	1267	egles	Egleston Square	10413	0.17	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	11	10413			11413	0.153	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	12	11413			17421	0.165	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	13	17421			17411	0.132	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.169	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	15	17401			17391	0.175	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	16	17391	frnpk	Franklin Park	415	0.234	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	17	415			416	0.129	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	18	416			417	0.146	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	19	417			419	0.1	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.095	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	21	1706			1708	0.052	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	23	1709			1710	0.006	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	24	1710			11712	0.002	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.002	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	26	1713			1714	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	27	1714	wellh	Wellington Hill	1716	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:00:00	33	1721			18511		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	1	17862	rugg	Ruggles	1257	0.557	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	2	1257			1258	0.441	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.247	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	4	1260			1262	0.1	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	5	1262			11531	0.037	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	6	11531	jasst	Jackson Square Station	1264	0.013	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	7	1264			1265	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	8	1265			1266	0.008	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	9	1266			1267	0.015	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	10	1267	egles	Egleston Square	10413	0.011	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	11	10413			11413	0.033	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	12	11413			17421	0.034	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	13	17421			17411	0.03	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.027	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	15	17401			17391	0.031	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	16	17391	frnpk	Franklin Park	415	0.074	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	17	415			416	0.088	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	18	416			417	0.141	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	19	417			419	0.082	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.125	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	21	1706			1708	0.098	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	23	1709			1710	0.126	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	24	1710			11712	0.145	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.089	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	26	1713			1714	0.077	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	27	1714	wellh	Wellington Hill	1716	0.089	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	28	1716			1717	0.064	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	29	1717			1718	0.069	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	30	1718			11719	0.081	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	31	11719			1720	0.085	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	32	1720			1721	0.024	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	14:30:00	33	1721			18511	0.023	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	1	17862	rugg	Ruggles	1257		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	2	1257			1258	0.048	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.159	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	4	1260			1262	0.235	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	5	1262			11531	0.351	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	6	11531	jasst	Jackson Square Station	1264	1.613	0.317
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	7	1264			1265	0.883	0.163
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	8	1265			1266	0.991	0.162
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	9	1266			1267	0.843	0.052
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	10	1267	egles	Egleston Square	10413	0.72	0.049
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	11	10413			11413	0.72	0.091
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	12	11413			17421	0.724	0.074
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	13	17421			17411	0.551	0.028
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.447	0.013
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	15	17401			17391	0.458	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	16	17391	frnpk	Franklin Park	415	0.765	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	17	415			416	0.462	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	18	416			417	0.584	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	19	417			419	0.285	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.352	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	21	1706			1708	0.194	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	22	1708			1709	0.149	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	23	1709			1710	0.164	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	24	1710			11712	0.223	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.091	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	26	1713			1714	0.075	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	27	1714	wellh	Wellington Hill	1716	0.099	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	28	1716			1717	0.049	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	29	1717			1718	0.044	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	30	1718			11719	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	31	11719			1720	0.048	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	32	1720			1721	0.008	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:00:00	33	1721			18511	0.007	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	6	11531	jasst	Jackson Square Station	1264	0.317	0.037
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	7	1264			1265	0.291	0.037
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	8	1265			1266	0.291	0.035
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	9	1266			1267	0.255	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	10	1267	egles	Egleston Square	10413	0.255	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	11	10413			11413	0.237	0.022
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	12	11413			17421	0.234	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	13	17421			17411	0.196	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.193	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	15	17401			17391	0.17	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	16	17391	frnpk	Franklin Park	415	0.384	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	17	415			416	0.17	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	18	416			417	0.248	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	19	417			419	0.125	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.184	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	21	1706			1708	0.116	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	22	1708			1709	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	23	1709			1710	0.145	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	24	1710			11712	0.271	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.105	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	26	1713			1714	0.116	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	27	1714	wellh	Wellington Hill	1716	0.158	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	28	1716			1717	0.136	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	29	1717			1718	0.128	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	30	1718			11719	0.186	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	31	11719			1720	0.187	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	32	1720			1721	0.079	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	15:30:00	33	1721			18511	0.06	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	6	11531	jasst	Jackson Square Station	1264	1.135	0.15
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	7	1264			1265	1.115	0.118
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	8	1265			1266	1.236	0.096
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	9	1266			1267	1.062	0.02
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	10	1267	egles	Egleston Square	10413	0.744	0.015
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	11	10413			11413	0.817	0.08
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	12	11413			17421	0.888	0.033
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	13	17421			17411	0.668	0.012
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.755	0.024
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	15	17401			17391	0.714	0.014
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	16	17391	frnpk	Franklin Park	415	1.489	0.051
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	17	415			416	0.72	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	18	416			417	0.83	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	19	417			419	0.44	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.515	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	21	1706			1708	0.307	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	22	1708			1709	0.089	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	23	1709			1710	0.28	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	24	1710			11712	0.41	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.139	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	26	1713			1714	0.124	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	27	1714	wellh	Wellington Hill	1716	0.127	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	28	1716			1717	0.092	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	29	1717			1718	0.093	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	30	1718			11719	0.127	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	31	11719			1720	0.071	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	32	1720			1721	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:00:00	33	1721			18511	0.021	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	6	11531	jasst	Jackson Square Station	1264	0.829	0.019
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	7	1264			1265	0.68	0.019
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	8	1265			1266	0.735	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	9	1266			1267	0.609	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	10	1267	egles	Egleston Square	10413	0.539	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	11	10413			11413	0.544	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	12	11413			17421	0.701	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	13	17421			17411	0.641	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.82	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	15	17401			17391	0.919	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	16	17391	frnpk	Franklin Park	415	1.72	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	17	415			416	0.676	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	18	416			417	0.886	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	19	417			419	0.608	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.679	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	21	1706			1708	0.404	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	22	1708			1709	0.376	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	23	1709			1710	0.51	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	24	1710			11712	0.84	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.335	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	26	1713			1714	0.293	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	27	1714	wellh	Wellington Hill	1716	0.4	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	28	1716			1717	0.301	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	29	1717			1718	0.271	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	30	1718			11719	0.363	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	31	11719			1720	0.319	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	32	1720			1721	0.093	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	16:30:00	33	1721			18511	0.068	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	6	11531	jasst	Jackson Square Station	1264	0.614	0.027
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	7	1264			1265	0.679	0.027
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	8	1265			1266	0.835	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	9	1266			1267	0.831	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	10	1267	egles	Egleston Square	10413	0.651	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	11	10413			11413	0.73	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	12	11413			17421	0.793	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	13	17421			17411	0.709	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.903	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	15	17401			17391	0.821	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	16	17391	frnpk	Franklin Park	415	1.56	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	17	415			416	0.617	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	18	416			417	0.716	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	19	417			419	0.396	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.562	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	21	1706			1708	0.319	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	22	1708			1709	0.133	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	23	1709			1710	0.33	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	24	1710			11712	0.431	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.205	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	26	1713			1714	0.193	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	27	1714	wellh	Wellington Hill	1716	0.249	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	28	1716			1717	0.188	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	29	1717			1718	0.174	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	30	1718			11719	0.265	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	31	11719			1720	0.275	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	32	1720			1721	0.122	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:00:00	33	1721			18511	0.104	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	6	11531	jasst	Jackson Square Station	1264	0.666	0.051
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	7	1264			1265	0.595	0.053
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	8	1265			1266	0.747	0.014
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	9	1266			1267	0.64	0.014
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	10	1267	egles	Egleston Square	10413	0.528	0.014
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	11	10413			11413	0.452	0.009
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	12	11413			17421	0.455	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	13	17421			17411	0.419	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.521	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	15	17401			17391	0.397	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	16	17391	frnpk	Franklin Park	415	0.863	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	17	415			416	0.384	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	18	416			417	0.463	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	19	417			419	0.292	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.322	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	21	1706			1708	0.217	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	22	1708			1709	0.166	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	23	1709			1710	0.267	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	24	1710			11712	0.452	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.202	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	26	1713			1714	0.189	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	27	1714	wellh	Wellington Hill	1716	0.23	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	28	1716			1717	0.175	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	29	1717			1718	0.166	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	30	1718			11719	0.253	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	31	11719			1720	0.213	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	32	1720			1721	0.092	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	17:30:00	33	1721			18511	0.067	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	6	11531	jasst	Jackson Square Station	1264	0.48	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	7	1264			1265	0.448	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	8	1265			1266	0.515	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	9	1266			1267	0.505	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	10	1267	egles	Egleston Square	10413	0.406	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	11	10413			11413	0.473	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	12	11413			17421	0.472	0.019
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	13	17421			17411	0.42	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.494	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	15	17401			17391	0.506	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	16	17391	frnpk	Franklin Park	415	0.852	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	17	415			416	0.494	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	18	416			417	0.611	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	19	417			419	0.355	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.458	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	21	1706			1708	0.273	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	22	1708			1709	0.159	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	23	1709			1710	0.27	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	24	1710			11712	0.377	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.158	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	26	1713			1714	0.158	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	27	1714	wellh	Wellington Hill	1716	0.168	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	28	1716			1717	0.12	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	29	1717			1718	0.112	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	30	1718			11719	0.145	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	31	11719			1720	0.127	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	32	1720			1721	0.073	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:00:00	33	1721			18511	0.055	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	6	11531	jasst	Jackson Square Station	1264	0.275	0.003
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	7	1264			1265	0.243	0.003
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	8	1265			1266	0.261	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	9	1266			1267	0.279	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	10	1267	egles	Egleston Square	10413	0.227	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	11	10413			11413	0.199	0.002
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	12	11413			17421	0.21	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	13	17421			17411	0.187	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.198	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	15	17401			17391	0.207	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	16	17391	frnpk	Franklin Park	415	0.333	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	17	415			416	0.257	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	18	416			417	0.32	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	19	417			419	0.221	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.26	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	21	1706			1708	0.177	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	22	1708			1709	0.081	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	23	1709			1710	0.176	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	24	1710			11712	0.227	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.108	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	26	1713			1714	0.107	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	27	1714	wellh	Wellington Hill	1716	0.121	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	28	1716			1717	0.102	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	29	1717			1718	0.096	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	30	1718			11719	0.128	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	31	11719			1720	0.11	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	32	1720			1721	0.076	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	18:30:00	33	1721			18511	0.067	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	6	11531	jasst	Jackson Square Station	1264		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	7	1264			1265		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	8	1265			1266		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	9	1266			1267		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	10	1267	egles	Egleston Square	10413		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	11	10413			11413	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	12	11413			17421	0.008	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	13	17421			17411	0.002	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.01	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	15	17401			17391	0.004	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	16	17391	frnpk	Franklin Park	415	0.014	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	17	415			416	0.015	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	18	416			417	0.028	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	19	417			419	0.021	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.04	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	21	1706			1708	0.023	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	22	1708			1709	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	23	1709			1710	0.048	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	24	1710			11712	0.065	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.031	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	26	1713			1714	0.022	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	27	1714	wellh	Wellington Hill	1716	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	28	1716			1717	0.014	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	29	1717			1718	0.012	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	30	1718			11719	0.017	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	31	11719			1720	0.026	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	32	1720			1721	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:00:00	33	1721			18511	0.015	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	24	1710			11712		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	26	1713			1714		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	27	1714	wellh	Wellington Hill	1716		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	28	1716			1717		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	29	1717			1718		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	30	1718			11719		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	31	11719			1720		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	32	1720			1721		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	19:30:00	33	1721			18511		0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	1	17862	rugg	Ruggles	1257	0.285	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	2	1257			1258	0.243	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.254	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	4	1260			1262	0.183	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	5	1262			11531	0.205	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	6	11531	jasst	Jackson Square Station	1264	0.548	0.065
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	7	1264			1265	0.24	0.013
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	8	1265			1266	0.284	0.028
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	9	1266			1267	0.258	0.002
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	10	1267	egles	Egleston Square	10413	0.228	0.002
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	11	10413			11413	0.242	0.003
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	12	11413			17421	0.248	0.003
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	13	17421			17411	0.238	0.003
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.206	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	15	17401			17391	0.202	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	16	17391	frnpk	Franklin Park	415	0.278	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	17	415			416	0.154	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	18	416			417	0.164	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	19	417			419	0.066	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.036	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	21	1706			1708	0.021	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	22	1708			1709	0.009	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	23	1709			1710	0.004	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	24	1710			11712	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:00:00	26	1713			1714	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	1	17862	rugg	Ruggles	1257	0.233	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	2	1257			1258	0.185	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.185	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	4	1260			1262	0.156	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	5	1262			11531	0.172	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	6	11531	jasst	Jackson Square Station	1264	0.397	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	7	1264			1265	0.215	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	8	1265			1266	0.232	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	9	1266			1267	0.211	0.004
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	10	1267	egles	Egleston Square	10413	0.199	0.002
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	11	10413			11413	0.203	0.003
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	12	11413			17421	0.228	0.003
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	13	17421			17411	0.191	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.194	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	15	17401			17391	0.199	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	16	17391	frnpk	Franklin Park	415	0.297	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	17	415			416	0.21	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	18	416			417	0.317	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	19	417			419	0.201	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.264	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	21	1706			1708	0.185	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	22	1708			1709	0.163	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	23	1709			1710	0.165	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	24	1710			11712	0.207	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.094	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	26	1713			1714	0.082	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	27	1714	wellh	Wellington Hill	1716	0.076	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	28	1716			1717	0.052	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	29	1717			1718	0.046	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	30	1718			11719	0.047	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	31	11719			1720	0.039	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	32	1720			1721	0.039	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	20:30:00	33	1721			18511	0.037	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	1	17862	rugg	Ruggles	1257	0.147	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	2	1257			1258	0.18	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.237	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	4	1260			1262	0.172	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	5	1262			11531	0.173	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	6	11531	jasst	Jackson Square Station	1264	0.443	0.063
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	7	1264			1265	0.229	0.022
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	8	1265			1266	0.216	0.025
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	9	1266			1267	0.242	0.015
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	10	1267	egles	Egleston Square	10413	0.187	0.012
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	11	10413			11413	0.185	0.012
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	12	11413			17421	0.209	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	13	17421			17411	0.183	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.157	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	15	17401			17391	0.15	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	16	17391	frnpk	Franklin Park	415	0.216	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	17	415			416	0.15	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	18	416			417	0.219	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	19	417			419	0.127	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.155	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	21	1706			1708	0.115	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	22	1708			1709	0.105	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	23	1709			1710	0.101	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	24	1710			11712	0.137	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.068	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	26	1713			1714	0.061	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	27	1714	wellh	Wellington Hill	1716	0.07	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	28	1716			1717	0.039	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	29	1717			1718	0.033	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	30	1718			11719	0.032	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	31	11719			1720	0.032	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	32	1720			1721	0.035	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:00:00	33	1721			18511	0.035	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	1	17862	rugg	Ruggles	1257	0.294	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	2	1257			1258	0.296	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.24	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	4	1260			1262	0.202	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	5	1262			11531	0.219	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	6	11531	jasst	Jackson Square Station	1264	0.428	0.021
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	7	1264			1265	0.238	0.007
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	8	1265			1266	0.216	0.002
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	9	1266			1267	0.231	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	10	1267	egles	Egleston Square	10413	0.19	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	11	10413			11413	0.183	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	12	11413			17421	0.188	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	13	17421			17411	0.174	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.177	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	15	17401			17391	0.19	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	16	17391	frnpk	Franklin Park	415	0.251	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	17	415			416	0.177	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	18	416			417	0.217	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	19	417			419	0.141	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.146	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	21	1706			1708	0.116	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	22	1708			1709	0.093	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	23	1709			1710	0.084	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	24	1710			11712	0.12	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.062	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	26	1713			1714	0.046	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	27	1714	wellh	Wellington Hill	1716	0.052	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	28	1716			1717	0.035	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	29	1717			1718	0.027	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	30	1718			11719	0.028	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	31	11719			1720	0.025	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	32	1720			1721	0.027	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	21:30:00	33	1721			18511	0.027	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	1	17862	rugg	Ruggles	1257	0.181	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	2	1257			1258	0.176	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.137	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	4	1260			1262	0.132	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	5	1262			11531	0.133	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	6	11531	jasst	Jackson Square Station	1264	0.335	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	7	1264			1265	0.191	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	8	1265			1266	0.192	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	9	1266			1267	0.161	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	10	1267	egles	Egleston Square	10413	0.153	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	11	10413			11413	0.149	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	12	11413			17421	0.173	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	13	17421			17411	0.16	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.138	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	15	17401			17391	0.124	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	16	17391	frnpk	Franklin Park	415	0.172	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	17	415			416	0.115	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	18	416			417	0.109	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	19	417			419	0.062	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.059	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	21	1706			1708	0.041	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	22	1708			1709	0.035	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	23	1709			1710	0.032	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	24	1710			11712	0.026	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.017	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	26	1713			1714	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	27	1714	wellh	Wellington Hill	1716	0.015	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	28	1716			1717	0.018	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	29	1717			1718	0.012	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	30	1718			11719	0.011	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	31	11719			1720	0.012	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	32	1720			1721	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:00:00	33	1721			18511	0.018	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	1	17862	rugg	Ruggles	1257	0.18	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	2	1257			1258	0.176	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.146	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	4	1260			1262	0.133	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	5	1262			11531	0.127	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	6	11531	jasst	Jackson Square Station	1264	0.241	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	7	1264			1265	0.112	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	8	1265			1266	0.108	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	9	1266			1267	0.098	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	10	1267	egles	Egleston Square	10413	0.083	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	11	10413			11413	0.076	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	12	11413			17421	0.081	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	13	17421			17411	0.064	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.062	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	15	17401			17391	0.065	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	16	17391	frnpk	Franklin Park	415	0.082	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	17	415			416	0.072	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	18	416			417	0.107	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	19	417			419	0.072	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.078	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	21	1706			1708	0.054	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	22	1708			1709	0.046	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	23	1709			1710	0.043	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	24	1710			11712	0.059	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.04	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	26	1713			1714	0.029	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	27	1714	wellh	Wellington Hill	1716	0.031	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	28	1716			1717	0.021	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	29	1717			1718	0.022	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	30	1718			11719	0.021	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	31	11719			1720	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	32	1720			1721	0.02	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	22:30:00	33	1721			18511	0.02	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	1	17862	rugg	Ruggles	1257	0.182	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	2	1257			1258	0.181	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.173	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	4	1260			1262	0.149	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	5	1262			11531	0.169	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	6	11531	jasst	Jackson Square Station	1264	0.328	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	7	1264			1265	0.18	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	8	1265			1266	0.168	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	9	1266			1267	0.139	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	10	1267	egles	Egleston Square	10413	0.144	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	11	10413			11413	0.137	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	12	11413			17421	0.126	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	13	17421			17411	0.125	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.11	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	15	17401			17391	0.114	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	16	17391	frnpk	Franklin Park	415	0.147	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	17	415			416	0.099	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	18	416			417	0.123	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	19	417			419	0.075	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.069	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	21	1706			1708	0.052	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	22	1708			1709	0.046	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	23	1709			1710	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	24	1710			11712	0.05	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.039	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	26	1713			1714	0.035	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	27	1714	wellh	Wellington Hill	1716	0.034	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	28	1716			1717	0.02	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	29	1717			1718	0.018	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	30	1718			11719	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	31	11719			1720	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	32	1720			1721	0.017	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:00:00	33	1721			18511	0.019	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	1	17862	rugg	Ruggles	1257	0.126	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	2	1257			1258	0.118	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.076	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	4	1260			1262	0.067	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	5	1262			11531	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	6	11531	jasst	Jackson Square Station	1264	0.044	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	7	1264			1265	0.046	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	8	1265			1266	0.047	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	9	1266			1267	0.058	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	10	1267	egles	Egleston Square	10413	0.062	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	11	10413			11413	0.066	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	12	11413			17421	0.106	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	13	17421			17411	0.106	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.115	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	15	17401			17391	0.13	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	16	17391	frnpk	Franklin Park	415	0.174	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	17	415			416	0.118	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	18	416			417	0.161	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	19	417			419	0.115	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.119	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	21	1706			1708	0.088	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	22	1708			1709	0.071	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	23	1709			1710	0.075	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	24	1710			11712	0.08	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.055	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	26	1713			1714	0.048	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	27	1714	wellh	Wellington Hill	1716	0.052	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	28	1716			1717	0.035	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	29	1717			1718	0.027	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	30	1718			11719	0.025	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	31	11719			1720	0.026	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	32	1720			1721	0.029	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	23:30:00	33	1721			18511	0.031	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	1	17862	rugg	Ruggles	1257	0.059	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	2	1257			1258	0.027	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.032	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	4	1260			1262	0.053	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	5	1262			11531	0.081	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	6	11531	jasst	Jackson Square Station	1264	0.222	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	7	1264			1265	0.134	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	8	1265			1266	0.131	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	9	1266			1267	0.115	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	10	1267	egles	Egleston Square	10413	0.114	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	11	10413			11413	0.105	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	12	11413			17421	0.102	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	13	17421			17411	0.09	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.098	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	15	17401			17391	0.093	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	16	17391	frnpk	Franklin Park	415	0.103	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	17	415			416	0.077	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	18	416			417	0.093	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	19	417			419	0.068	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.053	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	21	1706			1708	0.037	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	22	1708			1709	0.033	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	23	1709			1710	0.035	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	24	1710			11712	0.034	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.023	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	26	1713			1714	0.017	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	27	1714	wellh	Wellington Hill	1716	0.017	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	28	1716			1717	0.01	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	29	1717			1718	0.009	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	30	1718			11719	0.007	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	31	11719			1720	0.007	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	32	1720			1721	0.006	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:00:00	33	1721			18511	0.007	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	1	17862	rugg	Ruggles	1257	0.111	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	2	1257			1258	0.122	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.098	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	4	1260			1262	0.094	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	5	1262			11531	0.099	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	6	11531	jasst	Jackson Square Station	1264	0.121	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	7	1264			1265	0.085	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	8	1265			1266	0.079	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	9	1266			1267	0.082	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	10	1267	egles	Egleston Square	10413	0.08	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	11	10413			11413	0.075	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	12	11413			17421	0.073	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	13	17421			17411	0.068	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	14	17411	svrhm	Seaver & Humboldt	17401	0.069	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	15	17401			17391	0.065	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	16	17391	frnpk	Franklin Park	415	0.074	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	17	415			416	0.061	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	18	416			417	0.063	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	19	417			419	0.055	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.047	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	21	1706			1708	0.037	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	22	1708			1709	0.036	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	23	1709			1710	0.038	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	24	1710			11712	0.047	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.033	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	26	1713			1714	0.025	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	27	1714	wellh	Wellington Hill	1716	0.021	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	28	1716			1717	0.009	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	29	1717			1718	0.007	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	30	1718			11719	0.006	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	31	11719			1720	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	32	1720			1721	0.004	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	24:30:00	33	1721			18511	0.004	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	1	17862	rugg	Ruggles	1257	0.028	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	2	1257			1258	0.054	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	3	1258	roxbs	Roxbury Crossing Station (Bus)	1260	0.058	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	4	1260			1262	0.057	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	5	1262			11531	0.06	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	6	11531	jasst	Jackson Square Station	1264	0.057	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	7	1264			1265	0.046	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	8	1265			1266	0.043	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	9	1266			1267	0.044	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	10	1267	egles	Egleston Square	10413	0.044	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	11	10413			11413	0.046	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	12	11413			17421	0.044	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	13	17421			17411	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	14	17411	svrhm	Seaver & Humboldt	17401	0.043	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	15	17401			17391	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	16	17391	frnpk	Franklin Park	415	0.045	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	17	415			416	0.046	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	18	416			417	0.041	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	19	417			419	0.039	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	20	419	bltal	Blue Hill Avenue @ Talbot Avenue	1706	0.034	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	21	1706			1708	0.031	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	22	1708			1709	0.029	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	23	1709			1710	0.032	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	24	1710			11712	0.036	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.023	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	26	1713			1714	0.016	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	27	1714	wellh	Wellington Hill	1716	0.009	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	28	1716			1717	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	29	1717			1718	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	30	1718			11719	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	31	11719			1720	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	32	1720			1721	0.005	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:00:00	33	1721			18511	0.004	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	24	1710			11712	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	25	11712	mortn	Morton Street @ Blue Hill Avenue	1713	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	26	1713			1714	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	27	1714	wellh	Wellington Hill	1716	0.001	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	28	1716			1717	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	29	1717			1718	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	30	1718			11719	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	31	11719			1720	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	32	1720			1721	0	0
+Fall 2017	weekday	29	29-_-0	29000044	0	Mattapan Station via Blue Hill Ave.	25:30:00	33	1721			18511	0	0
