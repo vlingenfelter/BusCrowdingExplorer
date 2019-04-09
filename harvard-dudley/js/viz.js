@@ -10,6 +10,14 @@ function parentWidth(elem) {
   return elem.parentElement.clientWidth;
 }
 
+function componentToHex(c) {
+    var hex = c.toString(16);
+    return hex.length == 1 ? "0" + hex : hex;
+}
+
+function rgbToHex(r, g, b) {
+    return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
+}
 
 var w = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 w = parentWidth(document.getElementById('chart')) * 0.9;
@@ -60,16 +68,17 @@ var width = w - margin.left - margin.right,
   gridSizeX = Math.floor(width / times.length),
   gridSizeY = Math.floor(height / days.length),
   // datasets to pull from (to be replaced by back end)
-  datasets = ["heatmap/route1dudley.tsv"];
+  datasets = ["heatmap/route1dudley.tsv", "data.tsv"];
 
 var n = 6, // number of layers
   m = times.length, // number of samples per layer
-  colorrange = ["#ec5206",
-    "#afd35a",
-    "#155126",
-    "#43dcc5",
-    "#028b93"
-  ],
+  colorrange = ["#494ca2",
+    "#8186d5",
+    "#e0c97e",
+    "#fcf8b3",
+    "#f05a28"
+  ].reverse(),
+  keys = ["headway", "dropped trips", "within day", "day to day", "planned"].reverse(),
   stack = d3.layout.stack().offset("silhouette"),
   layers0 = stack(d3.range(n).map(function() {
     return bumpLayer(m);
@@ -78,13 +87,17 @@ var n = 6, // number of layers
     return bumpLayer(m);
   }));
 
+var div = d3.select("body").append("div")
+  .attr("class", "tooltip")
+  .style("opacity", 0);
+
 var x = d3.scale.linear()
   .domain([0, m - 1])
-  .range([0, width]);
+  .range([0, width - margin.left]);
 
 var y = d3.scale.linear()
   .domain([0, 20])
-  .range([(height / 3), 0]);
+  .range([(height / 4), 0]);
 
 var color = d3.scale.ordinal()
   .range(colorrange);
@@ -107,15 +120,72 @@ var area = d3.svg.area()
 
 var svg = d3.select("#chart").append("svg")
   .attr("width", width)
-  .attr("height", (height / 3));
+  .attr("height", (height / 4));
 
 svg.selectAll("path")
   .data(layers0)
   .enter().append("path")
   .attr("d", area)
-  .style("fill", function() {
-    return color(Math.random());
+  .style("fill", function(d, i) {
+    return color(i);
+  })
+  .style("stroke", "#494ca2")
+  .style("stroke-width", 0)
+  .on("mouseover", function(d) {
+    var color = d3.rgb(d3.select(this).style('fill')).toString();
+    color = colorrange.indexOf(color);
+    var source = keys[color];
+
+    d3.selectAll("path").style("opacity", 0.25);
+
+    d3.select(this).style("opacity", 1)
+      .style("stroke-width", 1);
+
+      div.transition()
+        .duration(100)
+        .style("opacity", 1);
+      div.html(source)
+        .style("left", (d3.event.pageX + 30) + "px")
+        .style("top", (d3.event.pageY - 28) + "px");
+  })
+  .on("mouseout", function() {
+    d3.selectAll("path").style("opacity", 1)
+      .style("stroke-width", 0);
+
+      div.transition()
+        .duration(500)
+        .style("opacity", 0);
   });
+
+var bodyRect = document.body.getBoundingClientRect(),
+  elemRect = document.getElementById('chart').getBoundingClientRect(),
+  offsetTop = elemRect.top - bodyRect.top,
+  offsetLeft = elemRect.left - elemRect.left;
+
+var vertical = d3.select("#chart")
+  .append("div")
+  .attr("class", "remove")
+  .style("position", "absolute")
+  .style("z-index", "19")
+  .style("width", "3px")
+  .style("height", height / 4 + "px")
+  .style("top", document.getElementById("chart").getBoundingClientRect().top + "px")
+  .style("bottom", "30px")
+  .style("left", offsetLeft)
+  .style("background", "#fff");
+
+d3.select("#chart")
+  .on("mousemove", function() {
+    mouse = d3.mouse(this);
+    mousex = mouse[0] + document.getElementById("chart").getBoundingClientRect().x + 3;
+    vertical.style("left", mousex + "px")
+  })
+  .on("mouseover", function() {
+    mouse = d3.mouse(this);
+    mousex = mouse[0] + document.getElementById("chart").getBoundingClientRect().x + 3;
+    vertical.style("left", mousex + "px")
+  });
+
 
 
 // Inspired by Lee Byron's test data generator.
@@ -144,10 +214,13 @@ function bumpLayer(n) {
 
 function transition(data) {
   d3.selectAll("path")
-    .data(data)
+    .data(stack(data))
     .transition()
     .duration(2000)
-    .attr("d", area);
+    .attr("d", area)
+    .style("fill", function(d, i) {
+      return color(i);
+    });
 }
 
 // function to get data from csv
@@ -182,7 +255,25 @@ var streamgraph = function(csv) {
           d.value = 0;
         }
       });
-
+      // // set up crowding by source array
+      // crowding0 = [{},
+      //   {},
+      //   {},
+      //   {},
+      //   {},
+      //   {}
+      // ];
+      // // flatten data
+      // for (var i = 0; i < 6; i++) {
+      //   crowding0[i].name = sources[i + 3];
+      //   crowding0[i].values = [];
+      //   for (var j = 0; j < distinctHalfhour0.length; j++) {
+      //     crowding0[i].values.push({
+      //       x: j + 1,
+      //       y: data0[j][sources[i + 3]]
+      //     });
+      //   }
+      // }
       // get the column names
       sources = Object.keys(data0[0]);
       // set up crowding by source array
@@ -230,13 +321,197 @@ var streamgraph = function(csv) {
       }
 
       // call stack type
-      crowding0 = stack(crowding0);
-      crowding1 = stack(crowding1);
-      streamData = data0;
-
+      // crowding0 = stack(crowding0);
+      // crowding1 = stack(crowding1);
       transition(crowding1);
     });
 };
+
+// heatmapChart: data (tsv) ---> svg
+// renders the heatmap
+var heatmapChart = function(tsvFile) {
+  // read the tsv
+  d3.tsv(tsvFile,
+    // accessor
+    function(d) {
+      return {
+        stoppair: {
+          last: +d.stop_id,
+          next: +d.nextstop
+        },
+        stop: +d.stop_id,
+        nextstop: +d.nextstop,
+        day: +d.stop_sequence,
+        hour: d.halfhour,
+        value: (+d.paxhoursuncomfortable) / (+d.paxhourstotal),
+        checkpoint: d.checkpoint_id
+      };
+    },
+    // call back
+    function(error, data) {
+      const distinctPairs = [...new Set(data.map(x => x.stoppair))];
+      const distinctStopID = [...new Set(data.map(x => x.day))];
+      const distinctValues = [...new Set(data.map(x => x.value))];
+      days = distinctStopID;
+      gridSizeY = Math.floor(height / distinctStopID.length);
+      console.log(distinctPairs);
+      // make svg in the chart div
+      var svg = d3.select("#chart").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+      // create group for stop ID labels
+      var dayLabelsGroup = svg.append("g");
+      var dayLabels = dayLabelsGroup.selectAll(".dayLabel")
+        .data(data)
+        .enter().append("text")
+        // anonymous function
+        // TO DO: either get rid of this or make it a real function
+        .text(function(d) {
+          return d.checkpoint;
+        })
+        .attr("x", 0)
+        .attr("y", function(d, i) { // stop id, position ---> where on grid it goes
+          return i * gridSizeY;
+        })
+        .style("text-anchor", "end")
+        .attr("transform", "translate(10," + gridSizeX / 1.5 + ")");
+
+      svg.append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 0 - (margin.left))
+        .attr("x", 0 - (height / 2))
+        .attr("dy", "1em")
+        .style("text-anchor", "middle")
+        .text("Stops");
+      // create group for x axis labels
+      // important for refresh function used for resizing
+      var timeLabelsGroup = svg.append('g').classed('x', true)
+        .attr("transform", (d, i) => {
+          return "translate(" + (i * gridSizeX + 5) + ", -12)";
+        });
+      var timeLabels = timeLabelsGroup.selectAll(".timeLabel")
+        .append('g')
+        .data(times)
+        .enter().append("text")
+        .text(function(d, i) { // right now it's just showing position not time seg
+          // TO DO
+          // regex times to make sure that modulo starts at 4 am and goes every 2 hours
+          if (((i + 1) % 2) == 0) {
+            if (d.indexOf(':') !== -1) {
+              //split and get
+              var y = d.split(':')[0];
+              if (parseInt(y) > 12 && parseInt(y) < 24) {
+                return `${parseInt(y) - 12}p`;
+              } else if (parseInt(y) > 24) {
+                return `${parseInt(y) - 24}a`;
+              } else if (parseInt(y) == 24) {
+                return "12a";
+              } else if (parseInt(y) == 12) {
+                return "12p";
+              } else {
+                return `${y}a`;
+              }
+            }
+          }
+        })
+        .attr("x", function(d, i) { // time seg, position ---> where on grid it goes
+          return i * gridSizeX;
+        })
+        .attr("y", 0)
+        .style("text-anchor", "end")
+        // .attr("transform", function(d) {
+        //   var xRot = d3.select(this).attr("x");
+        //   var yRot = d3.select(this).attr("y");
+        //   return `rotate(-60, ${xRot}, ${yRot} )` //ES6 template literal to set x and y rotation points
+        // })
+        // give each text element the .xLab clas
+        .classed('xLab', true);
+
+
+      // find distinct stop ids in the data
+      // find distinct half hours in the data
+      const distinctHalfhour = [...new Set(data.map(x => x.hour))];
+      // for testing:
+      // console.log(distinctHalfhour);
+      // console.log(distinctStopID);
+      testData = distinctHalfhour;
+      // give each piece of data it's coordinates
+      data.map(function(d) {
+        d.day = 1 + distinctStopID.indexOf(d.day);
+        d.hour = 1 + distinctHalfhour.indexOf(d.hour);
+        // remove NaN values and give them "0"
+        // TO DO:
+        // replace empty values with little arrows
+        if (isNaN(d.value)) {
+          d.value = 0;
+        }
+      })
+      // store this data in a global variable for testing
+      // get rid of this eventually
+      // refresh is dependent on this
+      thisData = data;
+      var nestHour = d3.nest()
+        .key(function(d) {
+          return d.hour;
+        })
+        .entries(thisData);
+
+
+
+
+      // scale the colors based on quantiles in the data
+      // check with Anna to see if this is best approach
+      var colorScale = d3.scale.quantile()
+        .domain([0.001, d3.max(distinctValues)])
+        .range(colors);
+
+      // create "cards" ---> rectangles that represent a segement on route at given time
+      var cards = svg.selectAll(".hour")
+        .data(data);
+
+      // append a rectangle to each card
+      cards.enter().append("rect")
+        .attr("x", function(d, i) { // place this rect properly in grid X
+          return (d.hour - 1) * gridSizeX;
+        })
+        .attr("y", function(d, i) { // place this rect properly in grid Y
+          return (d.day - 1) * gridSizeY;
+        })
+        .attr("rx", 0)
+        .attr("ry", 0)
+        .attr("class", "hour")
+        .attr("width", ((gridSizeX * 3) / 4)) // width is currently 75% of grid size
+        .attr("height", gridSizeY) // keeps the routes continuous
+        .style("stroke", "black")
+        .style("stroke-width", "0")
+        .style("fill", function(d) { // color based on the value of the card
+          if (d.value > 0) {
+            return colorScale(d.value);
+          } else {
+            return "#FEF0D9";
+          }
+        })
+        .on("mouseover", function(d) {
+          d3.select(this).style("stroke-width", "2");
+          div.transition()
+            .duration(100)
+            .style("opacity", 1);
+          div.html(d.value.toFixed(2) + " UPH")
+            .style("left", (d3.event.pageX) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");
+        })
+        .on("mouseout", function(d) {
+          d3.select(this).style("stroke-width", "0");
+          div.transition()
+            .duration(500)
+            .style("opacity", 0);
+        });
+    });
+};
+
 streamgraph("../streamgraph/1bysource.csv");
 // call heatmap on the tsv for the 111
 heatmapChart(datasets[0]);

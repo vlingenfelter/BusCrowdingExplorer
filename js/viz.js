@@ -10,7 +10,14 @@ function parentWidth(elem) {
   return elem.parentElement.clientWidth;
 }
 
+function componentToHex(c) {
+    var hex = c.toString(16);
+    return hex.length == 1 ? "0" + hex : hex;
+}
 
+function rgbToHex(r, g, b) {
+    return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
+}
 
 var w = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 w = parentWidth(document.getElementById('chart')) * 0.9;
@@ -71,7 +78,7 @@ var n = 6, // number of layers
     "#fcf8b3",
     "#f05a28"
   ].reverse(),
-  keys = ["headway", "dropped trips", "day to day?", "within-day", "planned"],
+  keys = ["headway", "dropped trips", "within day", "day to day", "planned"].reverse(),
   stack = d3.layout.stack().offset("silhouette"),
   layers0 = stack(d3.range(n).map(function() {
     return bumpLayer(m);
@@ -125,13 +132,29 @@ svg.selectAll("path")
   .style("stroke", "#494ca2")
   .style("stroke-width", 0)
   .on("mouseover", function(d) {
+    var color = d3.rgb(d3.select(this).style('fill')).toString();
+    color = colorrange.indexOf(color);
+    var source = keys[color];
+    
     d3.selectAll("path").style("opacity", 0.25);
+
     d3.select(this).style("opacity", 1)
       .style("stroke-width", 1);
+
+      div.transition()
+        .duration(100)
+        .style("opacity", 1);
+      div.html(source)
+        .style("left", (d3.event.pageX + 30) + "px")
+        .style("top", (d3.event.pageY - 28) + "px");
   })
   .on("mouseout", function() {
     d3.selectAll("path").style("opacity", 1)
       .style("stroke-width", 0);
+
+      div.transition()
+        .duration(500)
+        .style("opacity", 0);
   });
 
 var bodyRect = document.body.getBoundingClientRect(),
@@ -485,7 +508,7 @@ var heatmapChart = function(tsvFile) {
           div.transition()
             .duration(500)
             .style("opacity", 0);
-        });;
+        });
     });
 };
 
