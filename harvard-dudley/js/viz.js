@@ -70,16 +70,16 @@ var width = w - margin.left - margin.right,
   // datasets to pull from (to be replaced by back end)
   datasets = ["heatmap/route1dudley.tsv", "data.tsv"];
 
-var n = 6, // number of layers
+var n = 4, // number of layers
   m = times.length, // number of samples per layer
-  colorrange = ["#494ca2",
+  colorrange = [
     "#8186d5",
-    "#e0c97e",
-    "#fcf8b3",
+    "#494ca2",
+    "#faf382",
     "#f05a28"
   ].reverse(),
-  keys = ["headway", "dropped trips", "within day", "day to day", "planned"].reverse(),
-  stack = d3.layout.stack().offset("silhouette"),
+  keys = ["headway", "dropped trips", "demand variability", "planned"].reverse(),
+  stack = d3.layout.stack().offset("zero"),
   layers0 = stack(d3.range(n).map(function() {
     return bumpLayer(m);
   })),
@@ -132,18 +132,30 @@ svg.selectAll("path")
   .style("stroke", "#494ca2")
   .style("stroke-width", 0)
   .on("mouseover", function(d) {
+    // use the color of this to figure out the source it matches
     var color = d3.rgb(d3.select(this).style('fill')).toString();
     color = colorrange.indexOf(color);
     var source = keys[color];
 
+    // find the times range that user is hovering over
+    var mouse = d3.mouse(this);
+    var mousex = mouse[0];
+    var invertedx = x.invert(mousex).toFixed(0);
+    var time0 = times[invertedx];
+    var time1 = times[parseInt(invertedx) + 1];
+
+    // make all the stacks lighter
     d3.selectAll("path").style("opacity", 0.25);
 
+    // make the one being hovered over darker
     d3.select(this).style("opacity", 1)
       .style("stroke-width", 1);
 
+      // bring the tool tip up
       div.transition()
         .duration(100)
         .style("opacity", 1);
+      // fill out the tool tip info so that it reads relevant info?
       div.html(source)
         .style("left", (d3.event.pageX + 30) + "px")
         .style("top", (d3.event.pageY - 28) + "px");
@@ -234,8 +246,7 @@ var streamgraph = function(csv) {
         hour: +d.halfhour,
         total: +d.paxhoursuncomfortable,
         planned_frequency: +d.planned_frequency,
-        day_to_day: +d.day_to_day_demand_variability,
-        within_day: +d.within_day_demand_variability,
+        demand: +d.day_to_day_demand_variability + (+d.within_day_demand_variability),
         dropped: +d.dropped_trips,
         headway: +d.headway_variability
       };
@@ -282,11 +293,10 @@ var streamgraph = function(csv) {
         [],
         [],
         [],
-        [],
         []
       ];
       // flatten data
-      for (var i = 0; i < 6; i++) {
+      for (var i = 0; i < 5; i++) {
         for (var j = 0; j < distinctHalfhour0.length; j++) {
           crowding0[i].push({
             x: j + 1,
@@ -308,10 +318,9 @@ var streamgraph = function(csv) {
         [],
         [],
         [],
-        [],
         []
       ];
-      for (var i = 0; i < 6; i++) {
+      for (var i = 0; i < 5; i++) {
         for (var j = 0; j < distinctHalfhour1.length; j++) {
           crowding1[i].push({
             x: j + 1,
@@ -352,6 +361,8 @@ var heatmapChart = function(tsvFile) {
       const distinctPairs = [...new Set(data.map(x => x.stoppair))];
       const distinctStopID = [...new Set(data.map(x => x.day))];
       const distinctValues = [...new Set(data.map(x => x.value))];
+      const distinctCheck =  [...new Set(data.map(x => x.checkpoint))];
+      console.log(distinctCheck);
       days = distinctStopID;
       gridSizeY = Math.floor(height / distinctStopID.length);
       console.log(distinctPairs);
@@ -372,7 +383,7 @@ var heatmapChart = function(tsvFile) {
         .text(function(d) {
           return d.checkpoint;
         })
-        .attr("x", 0)
+        .attr("x", -15)
         .attr("y", function(d, i) { // stop id, position ---> where on grid it goes
           return i * gridSizeY;
         })
@@ -500,7 +511,7 @@ var heatmapChart = function(tsvFile) {
             .duration(100)
             .style("opacity", 1);
           div.html(d.value.toFixed(2) + " UPH")
-            .style("left", (d3.event.pageX) + "px")
+            .style("left", (d3.event.pageX + 10) + "px")
             .style("top", (d3.event.pageY - 28) + "px");
         })
         .on("mouseout", function(d) {
