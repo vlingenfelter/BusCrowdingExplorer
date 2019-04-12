@@ -1,0 +1,871 @@
+season	daytype	route_id	route_pattern_id	route_pattern_sort_order	direction_id	route_pattern_name	halfhour	stop_sequence	stop_id	checkpoint_id	checkpoint_or_stop_name	nextstop	paxhourstotal	paxhoursuncomfortable
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:00:00	1	10642	fhill	Forest Hills Busway	596		0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	1	10642	fhill	Forest Hills Busway	596	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	2	596			597	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	3	597			598	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	4	598			599	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	5	599			600	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	6	600			601	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	7	601			602	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	8	602	rossq	Roslindale Square	797	0.017	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	9	797			798	0.016	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	10	798			799	0.015	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	11	799			800	0.015	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	12	800			801	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	13	801			802	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	14	802			803	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	15	803			804	0.012	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	17	805			806	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	18	806			807	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	19	807			808	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	20	808			810	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	22	844			845	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	23	845			846	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	24	846			847	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	25	847			848	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	26	848			849	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	27	849			850	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	28	850			851	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	29	851			852	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	5:30:00	30	852			853	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	1	10642	fhill	Forest Hills Busway	596	0.067	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	2	596			597	0.06	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	3	597			598	0.046	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	4	598			599	0.041	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	5	599			600	0.042	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	6	600			601	0.041	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	7	601			602	0.043	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	8	602	rossq	Roslindale Square	797	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	9	797			798	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	10	798			799	0.036	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	11	799			800	0.036	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	12	800			801	0.036	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	13	801			802	0.03	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	14	802			803	0.03	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	15	803			804	0.034	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.034	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	17	805			806	0.029	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	18	806			807	0.025	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	19	807			808	0.023	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	20	808			810	0.021	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	22	844			845	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	23	845			846	0.017	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	24	846			847	0.017	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	25	847			848	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	26	848			849	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	27	849			850	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	28	850			851	0.012	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	29	851			852	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:00:00	30	852			853	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	1	10642	fhill	Forest Hills Busway	596	0.081	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	2	596			597	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	3	597			598	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	4	598			599	0.036	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	5	599			600	0.036	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	6	600			601	0.035	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	7	601			602	0.036	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	8	602	rossq	Roslindale Square	797	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	9	797			798	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	10	798			799	0.027	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	11	799			800	0.025	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	12	800			801	0.023	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	13	801			802	0.022	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	14	802			803	0.02	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	15	803			804	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.021	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	17	805			806	0.023	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	18	806			807	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	19	807			808	0.017	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	20	808			810	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	22	844			845	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	23	845			846	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	24	846			847	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	25	847			848	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	26	848			849	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	27	849			850	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	28	850			851	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	29	851			852	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	6:30:00	30	852			853	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	1	10642	fhill	Forest Hills Busway	596	0.066	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	2	596			597	0.055	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	3	597			598	0.05	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	4	598			599	0.043	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	5	599			600	0.043	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	6	600			601	0.043	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	7	601			602	0.049	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	8	602	rossq	Roslindale Square	797	0.036	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	9	797			798	0.032	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	10	798			799	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	11	799			800	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	12	800			801	0.035	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	13	801			802	0.037	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	14	802			803	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	15	803			804	0.042	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.043	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	17	805			806	0.039	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	18	806			807	0.035	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	19	807			808	0.026	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	20	808			810	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.016	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	22	844			845	0.012	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	23	845			846	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	24	846			847	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	25	847			848	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	26	848			849	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	27	849			850	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	28	850			851	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	29	851			852	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:00:00	30	852			853	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	1	10642	fhill	Forest Hills Busway	596	0.148	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	2	596			597	0.121	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	3	597			598	0.099	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	4	598			599	0.09	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	5	599			600	0.074	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	6	600			601	0.079	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	7	601			602	0.102	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	8	602	rossq	Roslindale Square	797	0.068	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	9	797			798	0.061	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	10	798			799	0.058	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	11	799			800	0.062	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	12	800			801	0.058	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	13	801			802	0.058	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	14	802			803	0.057	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	15	803			804	0.062	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.067	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	17	805			806	0.084	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	18	806			807	0.07	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	19	807			808	0.059	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	20	808			810	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.027	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	22	844			845	0.023	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	23	845			846	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	24	846			847	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	25	847			848	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	26	848			849	0.016	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	27	849			850	0.016	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	28	850			851	0.016	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	29	851			852	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	7:30:00	30	852			853	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	1	10642	fhill	Forest Hills Busway	596	0.097	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	2	596			597	0.069	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	3	597			598	0.06	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	4	598			599	0.055	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	5	599			600	0.054	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	6	600			601	0.054	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	7	601			602	0.058	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	8	602	rossq	Roslindale Square	797	0.042	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	9	797			798	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	10	798			799	0.034	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	11	799			800	0.032	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	12	800			801	0.032	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	13	801			802	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	14	802			803	0.03	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	15	803			804	0.039	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.04	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	17	805			806	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	18	806			807	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	19	807			808	0.023	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	20	808			810	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	22	844			845	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	23	845			846	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	24	846			847	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	25	847			848	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	26	848			849	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	27	849			850	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	28	850			851	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	29	851			852	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:00:00	30	852			853	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	1	10642	fhill	Forest Hills Busway	596	0.371	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	2	596			597	0.292	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	3	597			598	0.244	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	4	598			599	0.153	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	5	599			600	0.156	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	6	600			601	0.136	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	7	601			602	0.147	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	8	602	rossq	Roslindale Square	797	0.082	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	9	797			798	0.061	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	10	798			799	0.052	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	11	799			800	0.049	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	12	800			801	0.047	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	13	801			802	0.041	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	14	802			803	0.042	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	15	803			804	0.053	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.048	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	17	805			806	0.056	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	18	806			807	0.047	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	19	807			808	0.027	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	20	808			810	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	22	844			845	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	23	845			846	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	24	846			847	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	25	847			848	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	26	848			849	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	27	849			850	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	28	850			851	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	29	851			852	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	8:30:00	30	852			853	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	1	10642	fhill	Forest Hills Busway	596	0.107	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	2	596			597	0.091	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	3	597			598	0.077	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	4	598			599	0.079	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	5	599			600	0.077	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	6	600			601	0.113	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	7	601			602	0.193	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	8	602	rossq	Roslindale Square	797	0.094	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	9	797			798	0.067	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	10	798			799	0.063	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	11	799			800	0.067	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	12	800			801	0.087	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	13	801			802	0.077	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	14	802			803	0.08	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	15	803			804	0.09	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.099	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	17	805			806	0.123	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	18	806			807	0.099	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	19	807			808	0.078	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	20	808			810	0.027	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.012	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	22	844			845	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	23	845			846	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	24	846			847	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	25	847			848	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	26	848			849	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	27	849			850	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	28	850			851	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	29	851			852	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:00:00	30	852			853	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	1	10642	fhill	Forest Hills Busway	596	0.318	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	2	596			597	0.278	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	3	597			598	0.194	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	4	598			599	0.172	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	5	599			600	0.176	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	6	600			601	0.207	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	7	601			602	0.245	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	8	602	rossq	Roslindale Square	797	0.141	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	9	797			798	0.104	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	10	798			799	0.092	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	11	799			800	0.093	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	12	800			801	0.083	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	13	801			802	0.069	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	14	802			803	0.066	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	15	803			804	0.077	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.074	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	17	805			806	0.071	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	18	806			807	0.059	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	19	807			808	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	20	808			810	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	22	844			845	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	23	845			846	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	24	846			847	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	25	847			848	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	26	848			849	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	27	849			850	0.001	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	28	850			851	0.001	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	29	851			852	0.001	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	9:30:00	30	852			853	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	1	10642	fhill	Forest Hills Busway	596	0.191	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	2	596			597	0.176	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	3	597			598	0.123	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	4	598			599	0.092	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	5	599			600	0.089	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	6	600			601	0.089	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	7	601			602	0.124	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	8	602	rossq	Roslindale Square	797	0.086	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	9	797			798	0.061	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	10	798			799	0.055	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	11	799			800	0.051	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	12	800			801	0.052	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	13	801			802	0.042	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	14	802			803	0.047	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	15	803			804	0.07	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.069	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	17	805			806	0.084	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	18	806			807	0.066	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	19	807			808	0.029	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	20	808			810	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	22	844			845	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	23	845			846	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	24	846			847	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	25	847			848	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	26	848			849	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	27	849			850	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	28	850			851	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	29	851			852	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:00:00	30	852			853	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	1	10642	fhill	Forest Hills Busway	596	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	2	596			597	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	3	597			598	0.022	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	4	598			599	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	5	599			600	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	6	600			601	0.045	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	7	601			602	0.049	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	8	602	rossq	Roslindale Square	797	0.051	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	9	797			798	0.055	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	10	798			799	0.05	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	11	799			800	0.066	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	12	800			801	0.061	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	13	801			802	0.058	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	14	802			803	0.058	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	15	803			804	0.069	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.072	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	17	805			806	0.062	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	18	806			807	0.046	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	19	807			808	0.035	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	20	808			810	0.025	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.012	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	22	844			845	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	23	845			846	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	24	846			847	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	25	847			848	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	26	848			849	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	27	849			850	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	28	850			851	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	29	851			852	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	10:30:00	30	852			853	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	1	10642	fhill	Forest Hills Busway	596	0.218	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	2	596			597	0.207	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	3	597			598	0.136	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	4	598			599	0.127	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	5	599			600	0.113	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	6	600			601	0.12	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	7	601			602	0.175	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	8	602	rossq	Roslindale Square	797	0.146	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	9	797			798	0.122	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	10	798			799	0.086	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	11	799			800	0.089	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	12	800			801	0.076	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	13	801			802	0.056	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	14	802			803	0.059	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	15	803			804	0.052	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.043	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	17	805			806	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	18	806			807	0.022	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	19	807			808	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	20	808			810	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	22	844			845	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	23	845			846	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	24	846			847	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	25	847			848	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	26	848			849	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	27	849			850	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	28	850			851	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	29	851			852	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:00:00	30	852			853	0	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	1	10642	fhill	Forest Hills Busway	596	0.039	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	3	597			598	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	4	598			599	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	5	599			600	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	6	600			601	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	7	601			602	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	8	602	rossq	Roslindale Square	797	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	9	797			798	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	10	798			799	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	11	799			800	0.026	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	12	800			801	0.046	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	13	801			802	0.041	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	14	802			803	0.043	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	15	803			804	0.059	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.068	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	17	805			806	0.102	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	18	806			807	0.089	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	19	807			808	0.07	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	20	808			810	0.04	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	22	844			845	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	23	845			846	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	24	846			847	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	25	847			848	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	26	848			849	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	27	849			850	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	28	850			851	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	29	851			852	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	11:30:00	30	852			853	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	1	10642	fhill	Forest Hills Busway	596	0.193	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	2	596			597	0.219	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	3	597			598	0.167	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	4	598			599	0.151	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	5	599			600	0.136	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	6	600			601	0.16	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	7	601			602	0.216	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	8	602	rossq	Roslindale Square	797	0.159	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	9	797			798	0.113	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	10	798			799	0.085	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	11	799			800	0.099	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	12	800			801	0.095	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	13	801			802	0.082	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	14	802			803	0.08	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	15	803			804	0.116	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.106	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	17	805			806	0.145	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	18	806			807	0.104	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	19	807			808	0.083	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	20	808			810	0.045	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.025	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	22	844			845	0.017	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	23	845			846	0.015	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	24	846			847	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	25	847			848	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	26	848			849	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	27	849			850	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	28	850			851	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	29	851			852	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:00:00	30	852			853	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	1	10642	fhill	Forest Hills Busway	596	0.388	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	2	596			597	0.341	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	3	597			598	0.197	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	4	598			599	0.141	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	5	599			600	0.136	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	6	600			601	0.151	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	7	601			602	0.229	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	8	602	rossq	Roslindale Square	797	0.11	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	9	797			798	0.078	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	10	798			799	0.072	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	11	799			800	0.079	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	12	800			801	0.069	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	13	801			802	0.07	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	14	802			803	0.066	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	15	803			804	0.075	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.076	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	17	805			806	0.094	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	18	806			807	0.067	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	19	807			808	0.058	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	20	808			810	0.04	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.022	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	22	844			845	0.015	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	23	845			846	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	24	846			847	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	25	847			848	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	26	848			849	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	27	849			850	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	28	850			851	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	29	851			852	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	12:30:00	30	852			853	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	1	10642	fhill	Forest Hills Busway	596	0.19	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	2	596			597	0.152	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	3	597			598	0.114	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	4	598			599	0.068	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	5	599			600	0.055	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	6	600			601	0.067	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	7	601			602	0.067	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	8	602	rossq	Roslindale Square	797	0.042	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	9	797			798	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	10	798			799	0.017	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	11	799			800	0.016	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	12	800			801	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	13	801			802	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	14	802			803	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	15	803			804	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	17	805			806	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	18	806			807	0.002	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	19	807			808	0.001	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	20	808			810	0.001	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	22	844			845	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	23	845			846	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	24	846			847	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	25	847			848	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	26	848			849	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	27	849			850	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	28	850			851	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	29	851			852	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:00:00	30	852			853	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	1	10642	fhill	Forest Hills Busway	596	0.034	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	2	596			597	0.015	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	3	597			598	0.016	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	4	598			599	0.024	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	5	599			600	0.029	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	6	600			601	0.037	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	7	601			602	0.063	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	8	602	rossq	Roslindale Square	797	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	9	797			798	0.037	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	10	798			799	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	11	799			800	0.046	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	12	800			801	0.048	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	13	801			802	0.042	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	14	802			803	0.046	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	15	803			804	0.062	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.063	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	17	805			806	0.071	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	18	806			807	0.056	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	19	807			808	0.047	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	20	808			810	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.023	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	22	844			845	0.015	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	23	845			846	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	24	846			847	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	25	847			848	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	26	848			849	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	27	849			850	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	28	850			851	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	29	851			852	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	13:30:00	30	852			853	0.006	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	1	10642	fhill	Forest Hills Busway	596	0.242	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	2	596			597	0.208	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	3	597			598	0.139	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	4	598			599	0.116	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	5	599			600	0.123	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	6	600			601	0.128	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	7	601			602	0.179	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	8	602	rossq	Roslindale Square	797	0.113	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	9	797			798	0.093	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	10	798			799	0.079	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	11	799			800	0.086	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	12	800			801	0.077	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	13	801			802	0.063	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	14	802			803	0.063	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	15	803			804	0.076	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.072	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	17	805			806	0.102	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	18	806			807	0.087	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	19	807			808	0.063	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	20	808			810	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.022	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	22	844			845	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	23	845			846	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	24	846			847	0.01	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	25	847			848	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	26	848			849	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	27	849			850	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	28	850			851	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	29	851			852	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:00:00	30	852			853	0.004	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	1	10642	fhill	Forest Hills Busway	596	0.515	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	2	596			597	0.369	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	3	597			598	0.24	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	4	598			599	0.16	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	5	599			600	0.143	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	6	600			601	0.154	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	7	601			602	0.196	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	8	602	rossq	Roslindale Square	797	0.113	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	9	797			798	0.096	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	10	798			799	0.069	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	11	799			800	0.078	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	12	800			801	0.064	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	13	801			802	0.059	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	14	802			803	0.058	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	15	803			804	0.066	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.065	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	17	805			806	0.084	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	18	806			807	0.076	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	19	807			808	0.059	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	20	808			810	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	22	844			845	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	23	845			846	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	24	846			847	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	25	847			848	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	26	848			849	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	27	849			850	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	28	850			851	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	29	851			852	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	14:30:00	30	852			853	0.003	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	1	10642	fhill	Forest Hills Busway	596	0.518	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	2	596			597	0.39	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	3	597			598	0.199	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	4	598			599	0.169	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	5	599			600	0.2	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	6	600			601	0.2	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	7	601			602	0.359	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	8	602	rossq	Roslindale Square	797	0.108	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	9	797			798	0.066	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	10	798			799	0.057	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	11	799			800	0.053	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	12	800			801	0.041	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	13	801			802	0.032	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	14	802			803	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	15	803			804	0.04	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.039	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	17	805			806	0.062	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	18	806			807	0.064	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	19	807			808	0.049	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	20	808			810	0.022	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	22	844			845	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	23	845			846	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	24	846			847	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	25	847			848	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	26	848			849	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	27	849			850	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	28	850			851	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	29	851			852	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:00:00	30	852			853	0.009	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	1	10642	fhill	Forest Hills Busway	596	1.019	0.166
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	2	596			597	0.726	0.118
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	3	597			598	0.47	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	4	598			599	0.37	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	5	599			600	0.338	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	6	600			601	0.538	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	7	601			602	0.584	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	8	602	rossq	Roslindale Square	797	0.266	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	9	797			798	0.207	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	10	798			799	0.188	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	11	799			800	0.217	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	12	800			801	0.186	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	13	801			802	0.167	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	14	802			803	0.174	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	15	803			804	0.212	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.199	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	17	805			806	0.248	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	18	806			807	0.213	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	19	807			808	0.18	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	20	808			810	0.109	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.053	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	22	844			845	0.04	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	23	845			846	0.032	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	24	846			847	0.028	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	25	847			848	0.027	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	26	848			849	0.027	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	27	849			850	0.027	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	28	850			851	0.03	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	29	851			852	0.024	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	15:30:00	30	852			853	0.017	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	1	10642	fhill	Forest Hills Busway	596	1.184	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	2	596			597	0.79	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	3	597			598	0.532	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	4	598			599	0.657	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	5	599			600	0.701	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	6	600			601	0.828	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	7	601			602	0.666	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	8	602	rossq	Roslindale Square	797	0.296	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	9	797			798	0.197	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	10	798			799	0.144	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	11	799			800	0.149	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	12	800			801	0.131	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	13	801			802	0.115	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	14	802			803	0.112	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	15	803			804	0.132	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.117	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	17	805			806	0.15	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	18	806			807	0.136	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	19	807			808	0.112	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	20	808			810	0.079	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.048	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	22	844			845	0.041	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	23	845			846	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	24	846			847	0.03	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	25	847			848	0.03	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	26	848			849	0.03	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	27	849			850	0.021	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	28	850			851	0.025	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	29	851			852	0.022	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:00:00	30	852			853	0.014	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	1	10642	fhill	Forest Hills Busway	596	1.354	0.161
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	2	596			597	1.128	0.121
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	3	597			598	0.82	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	4	598			599	0.868	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	5	599			600	1.016	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	6	600			601	1.214	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	7	601			602	0.776	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	8	602	rossq	Roslindale Square	797	0.323	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	9	797			798	0.258	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	10	798			799	0.241	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	11	799			800	0.281	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	12	800			801	0.252	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	13	801			802	0.199	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	14	802			803	0.189	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	15	803			804	0.251	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.24	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	17	805			806	0.281	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	18	806			807	0.242	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	19	807			808	0.191	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	20	808			810	0.128	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.076	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	22	844			845	0.054	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	23	845			846	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	24	846			847	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	25	847			848	0.032	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	26	848			849	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	27	849			850	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	28	850			851	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	29	851			852	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	16:30:00	30	852			853	0.023	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	1	10642	fhill	Forest Hills Busway	596	1.096	0.172
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	2	596			597	0.833	0.115
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	3	597			598	0.455	0.02
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	4	598			599	0.448	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	5	599			600	0.444	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	6	600			601	0.55	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	7	601			602	0.523	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	8	602	rossq	Roslindale Square	797	0.22	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	9	797			798	0.159	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	10	798			799	0.13	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	11	799			800	0.153	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	12	800			801	0.135	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	13	801			802	0.11	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	14	802			803	0.119	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	15	803			804	0.15	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.122	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	17	805			806	0.153	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	18	806			807	0.169	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	19	807			808	0.144	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	20	808			810	0.091	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.065	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	22	844			845	0.051	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	23	845			846	0.045	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	24	846			847	0.041	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	25	847			848	0.041	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	26	848			849	0.038	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	27	849			850	0.037	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	28	850			851	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	29	851			852	0.027	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:00:00	30	852			853	0.021	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	1	10642	fhill	Forest Hills Busway	596	1.959	0.49
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	2	596			597	1.433	0.342
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	3	597			598	0.808	0.047
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	4	598			599	0.691	0.023
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	5	599			600	0.653	0.008
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	6	600			601	0.96	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	7	601			602	0.916	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	8	602	rossq	Roslindale Square	797	0.428	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	9	797			798	0.33	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	10	798			799	0.285	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	11	799			800	0.304	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	12	800			801	0.269	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	13	801			802	0.196	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	14	802			803	0.193	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	15	803			804	0.259	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.22	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	17	805			806	0.251	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	18	806			807	0.219	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	19	807			808	0.173	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	20	808			810	0.099	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.073	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	22	844			845	0.06	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	23	845			846	0.049	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	24	846			847	0.045	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	25	847			848	0.044	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	26	848			849	0.042	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	27	849			850	0.032	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	28	850			851	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	29	851			852	0.016	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	17:30:00	30	852			853	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	1	10642	fhill	Forest Hills Busway	596	1.111	0.27
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	2	596			597	1.073	0.212
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	3	597			598	0.707	0.018
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	4	598			599	0.63	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	5	599			600	0.689	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	6	600			601	0.983	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	7	601			602	0.923	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	8	602	rossq	Roslindale Square	797	0.441	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	9	797			798	0.303	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	10	798			799	0.251	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	11	799			800	0.31	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	12	800			801	0.241	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	13	801			802	0.193	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	14	802			803	0.194	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	15	803			804	0.262	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.198	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	17	805			806	0.249	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	18	806			807	0.236	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	19	807			808	0.165	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	20	808			810	0.122	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.086	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	22	844			845	0.073	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	23	845			846	0.061	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	24	846			847	0.055	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	25	847			848	0.055	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	26	848			849	0.047	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	27	849			850	0.045	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	28	850			851	0.039	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	29	851			852	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:00:00	30	852			853	0.029	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	1	10642	fhill	Forest Hills Busway	596	1.418	0.167
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	2	596			597	1.097	0.128
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	3	597			598	0.64	0.008
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	4	598			599	0.417	0.002
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	5	599			600	0.402	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	6	600			601	0.488	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	7	601			602	0.547	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	8	602	rossq	Roslindale Square	797	0.294	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	9	797			798	0.259	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	10	798			799	0.239	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	11	799			800	0.257	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	12	800			801	0.208	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	13	801			802	0.16	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	14	802			803	0.155	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	15	803			804	0.225	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.177	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	17	805			806	0.221	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	18	806			807	0.228	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	19	807			808	0.176	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	20	808			810	0.104	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.075	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	22	844			845	0.06	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	23	845			846	0.043	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	24	846			847	0.04	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	25	847			848	0.039	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	26	848			849	0.033	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	27	849			850	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	28	850			851	0.024	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	29	851			852	0.022	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	18:30:00	30	852			853	0.018	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	1	10642	fhill	Forest Hills Busway	596	0.623	0.06
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	2	596			597	0.557	0.083
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	3	597			598	0.362	0.005
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	4	598			599	0.327	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	5	599			600	0.305	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	6	600			601	0.353	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	7	601			602	0.482	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	8	602	rossq	Roslindale Square	797	0.274	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	9	797			798	0.213	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	10	798			799	0.188	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	11	799			800	0.216	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	12	800			801	0.176	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	13	801			802	0.131	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	14	802			803	0.132	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	15	803			804	0.155	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.138	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	17	805			806	0.159	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	18	806			807	0.123	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	19	807			808	0.099	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	20	808			810	0.072	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.049	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	22	844			845	0.039	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	23	845			846	0.029	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	24	846			847	0.027	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	25	847			848	0.028	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	26	848			849	0.028	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	27	849			850	0.026	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	28	850			851	0.025	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	29	851			852	0.022	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:00:00	30	852			853	0.019	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	1	10642	fhill	Forest Hills Busway	596	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	2	596			597	0.005	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	3	597			598	0.008	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	4	598			599	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	5	599			600	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	6	600			601	0.015	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	7	601			602	0.024	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	8	602	rossq	Roslindale Square	797	0.03	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	9	797			798	0.031	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	10	798			799	0.024	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	11	799			800	0.02	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	12	800			801	0.025	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	13	801			802	0.023	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	14	802			803	0.021	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	15	803			804	0.025	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	16	804	pkwy	West Roxbury Parkway @ Centre	805	0.029	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	17	805			806	0.037	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	18	806			807	0.037	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	19	807			808	0.028	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	20	808			810	0.023	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	21	810	wrox	Centre & Lagrange (West Roxbury)	844	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	22	844			845	0.012	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	23	845			846	0.013	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	24	846			847	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	25	847			848	0.012	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	26	848			849	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	27	849			850	0.011	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	28	850			851	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	29	851			852	0.007	0
+Fall 2017	weekday	37	37-_-0	37000007	0	Baker St. & Vermont St. via Belgrade Ave.	19:30:00	30	852			853	0.005	0

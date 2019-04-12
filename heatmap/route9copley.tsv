@@ -1,0 +1,1000 @@
+season	daytype	route_id	route_pattern_id	route_pattern_sort_order	direction_id	route_pattern_name	halfhour	stop_sequence	stop_id	checkpoint_id	checkpoint_or_stop_name	nextstop	paxhourstotal	paxhoursuncomfortable
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	1	33	ctypt	City Point	10033	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	2	10033			34	0.007	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	3	34			35	0.007	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	4	35			895	0.028	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	5	895			896	0.03	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	6	896			41	0.051	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	7	41	lbrwy	L Street @ Broadway	42	0.041	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	8	42			43	0.07	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	9	43			44	0.082	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	10	44			45	0.08	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.197	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	12	158			159	0.13	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	13	159			160	0.139	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	14	160			161	0.147	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	15	161			162	0.2	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	16	162			163	0.2	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	17	163			150	0.287	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.138	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	20	36539			36540	0.103	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	21	36540			171	0.081	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	22	171			173	0.094	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	23	173			178	0.012	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	24	178			179	0.01	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:00:00	25	179			174	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	1	33	ctypt	City Point	10033	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	2	10033			34	0.008	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	3	34			35	0.008	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	4	35			895	0.057	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	5	895			896	0.027	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	6	896			41	0.046	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	7	41	lbrwy	L Street @ Broadway	42	0.042	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	8	42			43	0.05	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	9	43			44	0.091	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	10	44			45	0.107	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.166	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	12	158			159	0.118	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	13	159			160	0.124	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	14	160			161	0.115	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	15	161			162	0.131	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	16	162			163	0.236	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	17	163			150	0.454	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.179	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	20	36539			36540	0.203	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	21	36540			171	0.211	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	22	171			173	0.396	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	23	173			178	0.248	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	24	178			179	0.167	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	25	179			174	0.129	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	5:30:00	26	174			175	0.102	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	1	33	ctypt	City Point	10033	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	2	10033			34	0.008	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	3	34			35	0.011	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	4	35			895	0.05	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	5	895			896	0.104	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	6	896			41	0.235	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	7	41	lbrwy	L Street @ Broadway	42	0.221	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	8	42			43	0.316	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	9	43			44	0.461	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	10	44			45	0.473	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.988	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	12	158			159	0.537	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	13	159			160	0.58	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	14	160			161	0.692	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	15	161			162	0.74	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	16	162			163	1.145	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	17	163			150	1.595	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.542	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	20	36539			36540	0.45	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	21	36540			171	0.34	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	22	171			173	0.541	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	23	173			178	0.389	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	24	178			179	0.161	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	25	179			174	0.123	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:00:00	26	174			175	0.125	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	1	33	ctypt	City Point	10033	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	2	10033			34	0.041	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	3	34			35	0.05	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	4	35			895	0.237	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	5	895			896	0.266	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	6	896			41	0.929	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	7	41	lbrwy	L Street @ Broadway	42	0.514	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	8	42			43	0.632	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	9	43			44	0.831	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	10	44			45	0.822	0.012
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	2.023	0.032
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	12	158			159	1.094	0.02
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	13	159			160	1.166	0.144
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	14	160			161	1.352	0.13
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	15	161			162	1.297	0.18
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	16	162			163	2.027	0.366
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	17	163			150	3.927	0.58
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	1.178	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	20	36539			36540	1.204	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	21	36540			171	0.812	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	22	171			173	1.475	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	23	173			178	0.859	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	24	178			179	0.373	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	25	179			174	0.231	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	6:30:00	26	174			175	0.196	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	1	33	ctypt	City Point	10033	0.014	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	2	10033			34	0.032	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	3	34			35	0.056	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	4	35			895	0.302	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	5	895			896	0.411	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	6	896			41	0.856	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	7	41	lbrwy	L Street @ Broadway	42	0.578	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	8	42			43	0.947	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	9	43			44	1.293	0.01
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	10	44			45	1.249	0.061
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	2.762	0.275
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	12	158			159	1.261	0.214
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	13	159			160	1.59	0.467
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	14	160			161	1.893	0.584
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	15	161			162	1.77	0.594
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	16	162			163	2.53	0.754
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	17	163			150	5.124	1.51
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	2.425	0.303
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	20	36539			36540	2.555	0.378
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	21	36540			171	1.776	0.202
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	22	171			173	3.256	0.076
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	23	173			178	2.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	24	178			179	0.562	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	25	179			174	0.438	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:00:00	26	174			175	0.447	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	1	33	ctypt	City Point	10033	0.017	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	2	10033			34	0.055	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	3	34			35	0.063	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	4	35			895	0.313	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	5	895			896	0.335	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	6	896			41	0.777	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	7	41	lbrwy	L Street @ Broadway	42	2.244	0.039
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	8	42			43	1.697	0.151
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	9	43			44	2.479	0.409
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	10	44			45	2.468	0.682
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	4.812	1.398
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	12	158			159	2.921	1.176
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	13	159			160	3.194	1.55
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	14	160			161	3.67	1.771
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	15	161			162	3.799	1.745
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	16	162			163	5.226	2.351
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	17	163			150	10.279	4.574
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	5.298	2
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	20	36539			36540	4.378	1.65
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	21	36540			171	3.054	0.975
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	22	171			173	5.466	0.4
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	23	173			178	2.707	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	24	178			179	1.114	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	25	179			174	0.836	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	7:30:00	26	174			175	0.719	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	1	33	ctypt	City Point	10033	0.011	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	2	10033			34	0.096	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	3	34			35	0.131	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	4	35			895	0.689	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	5	895			896	0.708	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	6	896			41	1.847	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	7	41	lbrwy	L Street @ Broadway	42	1.93	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	8	42			43	1.825	0.079
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	9	43			44	3.064	0.668
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	10	44			45	3.009	0.84
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	5.913	2.157
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	12	158			159	3.97	1.87
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	13	159			160	3.95	2.128
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	14	160			161	4.85	2.578
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	15	161			162	5.074	2.923
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	16	162			163	5.758	3.148
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	17	163			150	13.652	7.695
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	7.592	4.196
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	20	36539			36540	6.818	3.593
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	21	36540			171	4.457	2.255
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	22	171			173	8.796	0.483
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	23	173			178	4.242	0.02
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	24	178			179	1.683	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	25	179			174	1.168	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:00:00	26	174			175	0.943	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	1	33	ctypt	City Point	10033	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	2	10033			34	0.031	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	3	34			35	0.04	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	4	35			895	0.182	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	5	895			896	0.212	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	6	896			41	0.643	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	7	41	lbrwy	L Street @ Broadway	42	0.525	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	8	42			43	0.726	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	9	43			44	1.307	0.026
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	10	44			45	1.356	0.064
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	3.178	0.46
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	12	158			159	2.205	0.553
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	13	159			160	2.364	0.876
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	14	160			161	2.986	1.179
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	15	161			162	2.815	1.26
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	16	162			163	3.172	1.345
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	17	163			150	10.287	3.731
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	7.164	2.356
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	20	36539			36540	5.847	2.102
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	21	36540			171	4.307	1.49
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	22	171			173	8.35	0.226
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	23	173			178	3.728	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	24	178			179	1.308	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	25	179			174	0.847	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	8:30:00	26	174			175	0.758	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	1	33	ctypt	City Point	10033	0.005	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	2	10033			34	0.014	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	3	34			35	0.026	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	4	35			895	0.092	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	5	895			896	0.107	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	6	896			41	0.179	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	7	41	lbrwy	L Street @ Broadway	42	0.162	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	8	42			43	0.261	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	9	43			44	0.412	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	10	44			45	0.461	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	1.011	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	12	158			159	0.804	0.015
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	13	159			160	0.852	0.044
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	14	160			161	1.071	0.091
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	15	161			162	1.274	0.179
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	16	162			163	1.398	0.101
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	17	163			150	3.192	0.317
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	2.479	0.109
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	20	36539			36540	2.272	0.132
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	21	36540			171	1.456	0.111
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	22	171			173	3.254	0.008
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	23	173			178	1.838	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	24	178			179	0.857	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	25	179			174	0.584	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:00:00	26	174			175	0.502	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	1	33	ctypt	City Point	10033	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	2	10033			34	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	3	34			35	0.014	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	4	35			895	0.042	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	5	895			896	0.062	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	6	896			41	0.106	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	7	41	lbrwy	L Street @ Broadway	42	0.111	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	8	42			43	0.219	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	9	43			44	0.278	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	10	44			45	0.284	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.58	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	12	158			159	0.375	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	13	159			160	0.4	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	14	160			161	0.459	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	15	161			162	0.521	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	16	162			163	0.689	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	17	163			150	1.541	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	1.177	0.003
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	20	36539			36540	1.167	0.004
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	21	36540			171	0.759	0.002
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	22	171			173	1.447	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	23	173			178	0.938	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	24	178			179	0.418	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	25	179			174	0.292	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	9:30:00	26	174			175	0.307	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	1	33	ctypt	City Point	10033	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	2	10033			34	0.008	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	3	34			35	0.012	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	4	35			895	0.037	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	5	895			896	0.045	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	6	896			41	0.082	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	7	41	lbrwy	L Street @ Broadway	42	0.1	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	8	42			43	0.185	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	9	43			44	0.219	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	10	44			45	0.218	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.478	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	12	158			159	0.261	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	13	159			160	0.279	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	14	160			161	0.326	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	15	161			162	0.409	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	16	162			163	0.463	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	17	163			150	0.864	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.669	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	20	36539			36540	0.625	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	21	36540			171	0.436	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	22	171			173	0.78	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	23	173			178	0.473	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	24	178			179	0.204	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	25	179			174	0.157	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:00:00	26	174			175	0.137	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	2	10033			34	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	3	34			35	0.012	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	4	35			895	0.028	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	5	895			896	0.03	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	6	896			41	0.049	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	7	41	lbrwy	L Street @ Broadway	42	0.049	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	8	42			43	0.086	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	9	43			44	0.123	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	10	44			45	0.123	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.288	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	12	158			159	0.311	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	13	159			160	0.302	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	14	160			161	0.352	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	15	161			162	0.434	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	16	162			163	0.531	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	17	163			150	0.984	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.463	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	20	36539			36540	0.389	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	21	36540			171	0.338	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	22	171			173	0.64	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	23	173			178	0.504	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	24	178			179	0.222	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	25	179			174	0.156	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	10:30:00	26	174			175	0.146	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	1	33	ctypt	City Point	10033	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	2	10033			34	0.013	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	3	34			35	0.021	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	4	35			895	0.068	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	5	895			896	0.072	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	6	896			41	0.126	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	7	41	lbrwy	L Street @ Broadway	42	0.107	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	8	42			43	0.177	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	9	43			44	0.173	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	10	44			45	0.172	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.374	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	12	158			159	0.2	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	13	159			160	0.216	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	14	160			161	0.227	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	15	161			162	0.239	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	16	162			163	0.243	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	17	163			150	0.7	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.486	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	20	36539			36540	0.435	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	21	36540			171	0.307	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	22	171			173	0.493	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	23	173			178	0.337	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	24	178			179	0.153	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	25	179			174	0.114	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:00:00	26	174			175	0.088	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	1	33	ctypt	City Point	10033	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	2	10033			34	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	3	34			35	0.008	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	4	35			895	0.039	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	5	895			896	0.044	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	6	896			41	0.073	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	7	41	lbrwy	L Street @ Broadway	42	0.083	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	8	42			43	0.138	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	9	43			44	0.184	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	10	44			45	0.194	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.498	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	12	158			159	0.352	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	13	159			160	0.295	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	14	160			161	0.326	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	15	161			162	0.421	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	16	162			163	0.388	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	17	163			150	0.814	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.366	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	20	36539			36540	0.389	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	21	36540			171	0.352	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	22	171			173	0.688	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	23	173			178	0.476	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	24	178			179	0.212	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	25	179			174	0.17	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	11:30:00	26	174			175	0.136	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	1	33	ctypt	City Point	10033	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	2	10033			34	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	3	34			35	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	4	35			895	0.022	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	5	895			896	0.028	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	6	896			41	0.042	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	7	41	lbrwy	L Street @ Broadway	42	0.048	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	8	42			43	0.096	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	9	43			44	0.117	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	10	44			45	0.133	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.265	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	12	158			159	0.246	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	13	159			160	0.306	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	14	160			161	0.363	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	15	161			162	0.457	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	16	162			163	0.554	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	17	163			150	0.995	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.302	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	20	36539			36540	0.27	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	21	36540			171	0.253	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	22	171			173	0.448	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	23	173			178	0.304	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	24	178			179	0.138	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	25	179			174	0.093	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:00:00	26	174			175	0.094	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	2	10033			34	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	3	34			35	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	4	35			895	0.02	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	5	895			896	0.027	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	6	896			41	0.041	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	7	41	lbrwy	L Street @ Broadway	42	0.048	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	8	42			43	0.088	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	9	43			44	0.123	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	10	44			45	0.118	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.226	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	12	158			159	0.171	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	13	159			160	0.156	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	14	160			161	0.163	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	15	161			162	0.194	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	16	162			163	0.249	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	17	163			150	0.492	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.345	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	20	36539			36540	0.297	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	21	36540			171	0.252	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	22	171			173	0.451	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	23	173			178	0.264	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	24	178			179	0.092	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	25	179			174	0.073	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	12:30:00	26	174			175	0.064	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	1	33	ctypt	City Point	10033	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	2	10033			34	0.007	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	3	34			35	0.014	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	4	35			895	0.044	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	5	895			896	0.054	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	6	896			41	0.091	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	7	41	lbrwy	L Street @ Broadway	42	0.093	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	8	42			43	0.158	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	9	43			44	0.198	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	10	44			45	0.222	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.476	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	12	158			159	0.347	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	13	159			160	0.303	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	14	160			161	0.319	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	15	161			162	0.351	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	16	162			163	0.355	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	17	163			150	0.691	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.315	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	20	36539			36540	0.283	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	21	36540			171	0.221	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	22	171			173	0.389	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	23	173			178	0.268	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	24	178			179	0.12	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	25	179			174	0.097	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:00:00	26	174			175	0.097	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	1	33	ctypt	City Point	10033	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	2	10033			34	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	3	34			35	0.007	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	4	35			895	0.028	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	5	895			896	0.033	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	6	896			41	0.054	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	7	41	lbrwy	L Street @ Broadway	42	0.06	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	8	42			43	0.101	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	9	43			44	0.154	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	10	44			45	0.149	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.343	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	12	158			159	0.262	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	13	159			160	0.244	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	14	160			161	0.294	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	15	161			162	0.403	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	16	162			163	0.478	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	17	163			150	0.836	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.396	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	20	36539			36540	0.391	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	21	36540			171	0.357	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	22	171			173	0.51	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	23	173			178	0.42	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	24	178			179	0.211	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	25	179			174	0.174	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	13:30:00	26	174			175	0.167	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	1	33	ctypt	City Point	10033	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	2	10033			34	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	3	34			35	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	4	35			895	0.018	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	5	895			896	0.025	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	6	896			41	0.038	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	7	41	lbrwy	L Street @ Broadway	42	0.058	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	8	42			43	0.104	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	9	43			44	0.124	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	10	44			45	0.15	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.494	0.037
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	12	158			159	0.29	0.019
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	13	159			160	0.267	0.01
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	14	160			161	0.284	0.01
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	15	161			162	0.399	0.009
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	16	162			163	0.495	0.016
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	17	163			150	0.649	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.349	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	20	36539			36540	0.309	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	21	36540			171	0.265	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	22	171			173	0.364	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	23	173			178	0.298	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	24	178			179	0.142	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	25	179			174	0.139	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:00:00	26	174			175	0.139	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	1	33	ctypt	City Point	10033	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	2	10033			34	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	3	34			35	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	4	35			895	0.057	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	5	895			896	0.088	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	6	896			41	0.095	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	7	41	lbrwy	L Street @ Broadway	42	0.096	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	8	42			43	0.135	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	9	43			44	0.157	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	10	44			45	0.153	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.74	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	12	158			159	0.623	0.103
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	13	159			160	0.491	0.059
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	14	160			161	0.579	0.087
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	15	161			162	0.731	0.112
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	16	162			163	0.797	0.062
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	17	163			150	1.73	0.267
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.371	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	20	36539			36540	0.27	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	21	36540			171	0.192	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	22	171			173	0.251	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	23	173			178	0.215	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	24	178			179	0.11	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	25	179			174	0.105	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	14:30:00	26	174			175	0.112	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	1	33	ctypt	City Point	10033	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	2	10033			34	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	3	34			35	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	4	35			895	0.039	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	5	895			896	0.051	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	6	896			41	0.08	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	7	41	lbrwy	L Street @ Broadway	42	0.076	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	8	42			43	0.136	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	9	43			44	0.19	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	10	44			45	0.177	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.437	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	12	158			159	0.343	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	13	159			160	0.339	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	14	160			161	0.414	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	15	161			162	0.732	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	16	162			163	0.64	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	17	163			150	1.094	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.44	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	20	36539			36540	0.394	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	21	36540			171	0.371	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	22	171			173	0.482	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	23	173			178	0.349	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	24	178			179	0.148	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	25	179			174	0.11	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:00:00	26	174			175	0.09	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	1	33	ctypt	City Point	10033	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	2	10033			34	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	3	34			35	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	4	35			895	0.038	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	5	895			896	0.042	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	6	896			41	0.058	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	7	41	lbrwy	L Street @ Broadway	42	0.078	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	8	42			43	0.165	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	9	43			44	0.218	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	10	44			45	0.207	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.578	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	12	158			159	0.377	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	13	159			160	0.362	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	14	160			161	0.392	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	15	161			162	0.723	0.018
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	16	162			163	0.668	0.019
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	17	163			150	1.489	0.064
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.397	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	20	36539			36540	0.327	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	21	36540			171	0.275	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	22	171			173	0.42	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	23	173			178	0.36	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	24	178			179	0.141	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	25	179			174	0.131	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	15:30:00	26	174			175	0.12	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	1	33	ctypt	City Point	10033	0.007	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	2	10033			34	0.01	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	3	34			35	0.025	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	4	35			895	0.064	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	5	895			896	0.078	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	6	896			41	0.094	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	7	41	lbrwy	L Street @ Broadway	42	0.128	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	8	42			43	0.223	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	9	43			44	0.302	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	10	44			45	0.303	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.599	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	12	158			159	0.386	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	13	159			160	0.328	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	14	160			161	0.401	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	15	161			162	0.501	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	16	162			163	0.552	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	17	163			150	1.113	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.571	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	20	36539			36540	0.511	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	21	36540			171	0.455	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	22	171			173	0.637	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	23	173			178	0.459	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	24	178			179	0.177	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	25	179			174	0.213	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:00:00	26	174			175	0.212	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	1	33	ctypt	City Point	10033	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	2	10033			34	0.008	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	3	34			35	0.021	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	4	35			895	0.051	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	5	895			896	0.064	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	6	896			41	0.091	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	7	41	lbrwy	L Street @ Broadway	42	0.114	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	8	42			43	0.187	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	9	43			44	0.235	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	10	44			45	0.27	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.581	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	12	158			159	0.379	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	13	159			160	0.483	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	14	160			161	0.575	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	15	161			162	0.709	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	16	162			163	0.743	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	17	163			150	1.415	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.527	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	20	36539			36540	0.495	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	21	36540			171	0.438	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	22	171			173	0.696	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	23	173			178	0.458	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	24	178			179	0.175	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	25	179			174	0.338	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	16:30:00	26	174			175	0.381	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	1	33	ctypt	City Point	10033	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	2	10033			34	0.007	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	3	34			35	0.02	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	4	35			895	0.045	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	5	895			896	0.055	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	6	896			41	0.093	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	7	41	lbrwy	L Street @ Broadway	42	0.113	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	8	42			43	0.186	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	9	43			44	0.262	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	10	44			45	0.271	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.615	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	12	158			159	0.461	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	13	159			160	0.511	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	14	160			161	0.648	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	15	161			162	0.695	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	16	162			163	0.774	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	17	163			150	1.299	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.583	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	20	36539			36540	0.552	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	21	36540			171	0.485	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	22	171			173	0.81	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	23	173			178	0.605	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	24	178			179	0.212	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	25	179			174	0.642	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:00:00	26	174			175	0.589	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	1	33	ctypt	City Point	10033	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	2	10033			34	0.007	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	3	34			35	0.012	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	4	35			895	0.048	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	5	895			896	0.068	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	6	896			41	0.101	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	7	41	lbrwy	L Street @ Broadway	42	0.144	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	8	42			43	0.231	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	9	43			44	0.302	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	10	44			45	0.312	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.584	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	12	158			159	0.388	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	13	159			160	0.419	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	14	160			161	0.563	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	15	161			162	0.692	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	16	162			163	0.755	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	17	163			150	1.392	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.638	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	20	36539			36540	0.668	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	21	36540			171	0.562	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	22	171			173	0.876	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	23	173			178	0.59	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	24	178			179	0.179	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	25	179			174	0.448	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	17:30:00	26	174			175	0.45	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	2	10033			34	0.007	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	3	34			35	0.012	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	4	35			895	0.055	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	5	895			896	0.051	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	6	896			41	0.069	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	7	41	lbrwy	L Street @ Broadway	42	0.102	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	8	42			43	0.182	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	9	43			44	0.267	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	10	44			45	0.27	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.516	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	12	158			159	0.379	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	13	159			160	0.416	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	14	160			161	0.497	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	15	161			162	0.569	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	16	162			163	0.662	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	17	163			150	1.163	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.591	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	20	36539			36540	0.52	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	21	36540			171	0.503	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	22	171			173	0.753	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	23	173			178	0.59	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	24	178			179	0.225	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	25	179			174	0.547	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:00:00	26	174			175	0.464	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	1	33	ctypt	City Point	10033	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	2	10033			34	0.005	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	3	34			35	0.007	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	4	35			895	0.051	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	5	895			896	0.076	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	6	896			41	0.107	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	7	41	lbrwy	L Street @ Broadway	42	0.123	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	8	42			43	0.231	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	9	43			44	0.256	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	10	44			45	0.233	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.46	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	12	158			159	0.319	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	13	159			160	0.301	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	14	160			161	0.376	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	15	161			162	0.439	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	16	162			163	0.49	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	17	163			150	0.812	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.361	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	20	36539			36540	0.387	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	21	36540			171	0.377	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	22	171			173	0.518	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	23	173			178	0.391	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	24	178			179	0.167	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	25	179			174	0.252	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	18:30:00	26	174			175	0.265	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	1	33	ctypt	City Point	10033	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	2	10033			34	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	3	34			35	0.005	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	4	35			895	0.024	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	5	895			896	0.032	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	6	896			41	0.048	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	7	41	lbrwy	L Street @ Broadway	42	0.066	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	8	42			43	0.124	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	9	43			44	0.182	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	10	44			45	0.201	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.326	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	12	158			159	0.227	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	13	159			160	0.232	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	14	160			161	0.265	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	15	161			162	0.332	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	16	162			163	0.382	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	17	163			150	0.639	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.347	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	20	36539			36540	0.303	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	21	36540			171	0.256	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	22	171			173	0.301	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	23	173			178	0.297	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	24	178			179	0.169	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	25	179			174	0.26	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:00:00	26	174			175	0.308	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	2	10033			34	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	3	34			35	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	4	35			895	0.014	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	5	895			896	0.019	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	6	896			41	0.025	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	7	41	lbrwy	L Street @ Broadway	42	0.037	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	8	42			43	0.071	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	9	43			44	0.1	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	10	44			45	0.11	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.195	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	12	158			159	0.169	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	13	159			160	0.18	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	14	160			161	0.213	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	15	161			162	0.293	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	16	162			163	0.304	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	17	163			150	0.37	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.175	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	20	36539			36540	0.175	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	21	36540			171	0.166	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	22	171			173	0.21	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	23	173			178	0.215	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	24	178			179	0.11	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	25	179			174	0.136	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	19:30:00	26	174			175	0.151	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	2	10033			34	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	3	34			35	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	4	35			895	0.01	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	5	895			896	0.012	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	6	896			41	0.016	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	7	41	lbrwy	L Street @ Broadway	42	0.029	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	8	42			43	0.054	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	9	43			44	0.066	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	10	44			45	0.073	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.104	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	12	158			159	0.11	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	13	159			160	0.147	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	14	160			161	0.145	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	15	161			162	0.212	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	16	162			163	0.269	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	17	163			150	0.387	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.132	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	20	36539			36540	0.143	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	21	36540			171	0.113	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	22	171			173	0.126	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	23	173			178	0.109	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	24	178			179	0.066	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	25	179			174	0.083	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:00:00	26	174			175	0.073	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	2	10033			34	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	3	34			35	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	4	35			895	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	5	895			896	0.008	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	6	896			41	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	7	41	lbrwy	L Street @ Broadway	42	0.01	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	8	42			43	0.025	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	9	43			44	0.028	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	10	44			45	0.03	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.042	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	12	158			159	0.042	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	13	159			160	0.05	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	14	160			161	0.055	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	15	161			162	0.084	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	16	162			163	0.089	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	17	163			150	0.112	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.074	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	20	36539			36540	0.072	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	21	36540			171	0.073	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	22	171			173	0.081	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	23	173			178	0.089	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	24	178			179	0.049	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	25	179			174	0.065	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	20:30:00	26	174			175	0.065	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	2	10033			34	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	3	34			35	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	4	35			895	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	5	895			896	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	6	896			41	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	7	41	lbrwy	L Street @ Broadway	42	0.015	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	8	42			43	0.043	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	9	43			44	0.045	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	10	44			45	0.045	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.056	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	12	158			159	0.056	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	13	159			160	0.064	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	14	160			161	0.067	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	15	161			162	0.088	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	16	162			163	0.102	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	17	163			150	0.129	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.051	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	20	36539			36540	0.051	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	21	36540			171	0.046	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	22	171			173	0.057	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	23	173			178	0.057	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	24	178			179	0.033	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	25	179			174	0.065	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:00:00	26	174			175	0.074	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	2	10033			34	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	3	34			35	0.001	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	4	35			895	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	5	895			896	0.017	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	6	896			41	0.018	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	7	41	lbrwy	L Street @ Broadway	42	0.019	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	8	42			43	0.045	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	9	43			44	0.04	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	10	44			45	0.034	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.033	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	12	158			159	0.036	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	13	159			160	0.043	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	14	160			161	0.049	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	15	161			162	0.061	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	16	162			163	0.076	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	17	163			150	0.086	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.044	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	20	36539			36540	0.038	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	21	36540			171	0.035	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	22	171			173	0.036	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	23	173			178	0.034	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	24	178			179	0.018	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	25	179			174	0.029	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	21:30:00	26	174			175	0.023	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	2	10033			34	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	3	34			35	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	4	35			895	0.02	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	5	895			896	0.019	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	6	896			41	0.025	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	7	41	lbrwy	L Street @ Broadway	42	0.035	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	8	42			43	0.077	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	9	43			44	0.085	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	10	44			45	0.11	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.118	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	12	158			159	0.131	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	13	159			160	0.143	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	14	160			161	0.13	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	15	161			162	0.168	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	16	162			163	0.196	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	17	163			150	0.2	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.036	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	20	36539			36540	0.031	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	21	36540			171	0.028	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	22	171			173	0.028	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	23	173			178	0.03	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	24	178			179	0.018	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	25	179			174	0.011	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:00:00	26	174			175	0.021	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	2	10033			34	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	3	34			35	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	4	35			895	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	5	895			896	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	6	896			41	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	7	41	lbrwy	L Street @ Broadway	42	0.008	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	8	42			43	0.017	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	9	43			44	0.018	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	10	44			45	0.018	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.019	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	12	158			159	0.033	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	13	159			160	0.044	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	14	160			161	0.06	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	15	161			162	0.085	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	16	162			163	0.106	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	17	163			150	0.153	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.043	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	20	36539			36540	0.037	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	21	36540			171	0.035	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	22	171			173	0.034	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	23	173			178	0.033	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	24	178			179	0.017	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	25	179			174	0.015	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	22:30:00	26	174			175	0.018	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	2	10033			34	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	3	34			35	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	4	35			895	0.033	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	5	895			896	0.028	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	6	896			41	0.028	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	7	41	lbrwy	L Street @ Broadway	42	0.05	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	8	42			43	0.057	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	9	43			44	0.057	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	10	44			45	0.072	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.084	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	12	158			159	0.084	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	13	159			160	0.087	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	14	160			161	0.105	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	15	161			162	0.137	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	16	162			163	0.126	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	17	163			150	0.145	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.082	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	20	36539			36540	0.075	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	21	36540			171	0.059	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	22	171			173	0.05	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	23	173			178	0.039	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	24	178			179	0.018	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	25	179			174	0.015	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:00:00	26	174			175	0.013	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	2	10033			34	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	3	34			35	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	4	35			895	0.006	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	5	895			896	0.005	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	6	896			41	0.005	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	7	41	lbrwy	L Street @ Broadway	42	0.024	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	8	42			43	0.021	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	9	43			44	0.022	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	10	44			45	0.027	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.026	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	12	158			159	0.032	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	13	159			160	0.034	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	14	160			161	0.038	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	15	161			162	0.048	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	16	162			163	0.051	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	17	163			150	0.061	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.038	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	20	36539			36540	0.04	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	21	36540			171	0.051	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	22	171			173	0.059	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	23	173			178	0.065	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	24	178			179	0.057	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	25	179			174	0.048	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	23:30:00	26	174			175	0.041	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	2	10033			34	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	3	34			35	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	4	35			895	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	5	895			896	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	6	896			41	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	7	41	lbrwy	L Street @ Broadway	42	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	8	42			43	0.011	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	9	43			44	0.02	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	10	44			45	0.026	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.027	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	12	158			159	0.041	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	13	159			160	0.053	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	14	160			161	0.053	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	15	161			162	0.067	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	16	162			163	0.064	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	17	163			150	0.082	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.026	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	20	36539			36540	0.025	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	21	36540			171	0.025	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	22	171			173	0.025	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	23	173			178	0.027	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	24	178			179	0.021	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	25	179			174	0.017	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:00:00	26	174			175	0.015	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	1	33	ctypt	City Point	10033	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	2	10033			34	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	3	34			35	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	4	35			895	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	5	895			896	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	6	896			41	0	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	7	41	lbrwy	L Street @ Broadway	42	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	8	42			43	0.002	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	9	43			44	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	10	44			45	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	11	45	perks	Perkins Square (Dorchester) @ Broadway (Southbound)	158	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	12	158			159	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	13	159			160	0.003	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	14	160			161	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	15	161			162	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	16	162			163	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	17	163			150	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	19	36541	slvwa	Silver Line @ Washington Street	36539	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	20	36539			36540	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	21	36540			171	0.01	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	22	171			173	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	23	173			178	0.009	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	24	178			179	0.005	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	25	179			174	0.004	0
+Fall 2017	weekday	9	9-_-1	9001002	1	Copley Square	24:30:00	26	174			175	0.004	0

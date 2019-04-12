@@ -571,4 +571,6 @@ function resize() {
     .attr("x", function(d, i) {
       return (d.hour - 1) * gridSizeX;
     });
+
+  var paths = svg.selectAll("path");
 }

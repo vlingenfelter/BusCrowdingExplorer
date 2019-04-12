@@ -68,7 +68,7 @@ var width = w - margin.left - margin.right,
   gridSizeX = Math.floor(width / times.length),
   gridSizeY = Math.floor(height / days.length),
   // datasets to pull from (to be replaced by back end)
-  datasets = ["heatmap/route1harvard.tsv", "data.tsv"];
+  datasets = ["heatmap/route9copley.tsv", "data.tsv"];
 
 var n = 4, // number of layers
   m = times.length, // number of samples per layer
@@ -95,8 +95,9 @@ var x = d3.scale.linear()
   .domain([0, m - 1])
   .range([0, width - margin.left]);
 
+// this needs to be changed so that the domain is the max total value for any time segement
 var y = d3.scale.linear()
-  .domain([0, 20])
+  .domain([0, 55])
   .range([(height / 4), 0]);
 
 var color = d3.scale.ordinal()
@@ -159,6 +160,27 @@ svg.selectAll("path")
       div.html(source)
         .style("left", (d3.event.pageX + 30) + "px")
         .style("top", (d3.event.pageY - 28) + "px");
+  })
+  .on("mousemove", function(d) {
+    // use the color of this to figure out the source it matches
+    var color = d3.rgb(d3.select(this).style('fill')).toString();
+    color = colorrange.indexOf(color);
+    var source = keys[color];
+
+    // find the times range that user is hovering over
+    var mouse = d3.mouse(this);
+    var mousex = mouse[0];
+    var invertedx = x.invert(mousex).toFixed(0);
+    var time0 = times[invertedx];
+    var time1 = times[parseInt(invertedx) + 1];
+    // bring the tool tip up
+    div.transition()
+      .duration(100)
+      .style("opacity", 1);
+    // fill out the tool tip info so that it reads relevant info?
+    div.html(source)
+      .style("left", (d3.event.pageX + 30) + "px")
+      .style("top", (d3.event.pageY - 28) + "px");
   })
   .on("mouseout", function() {
     d3.selectAll("path").style("opacity", 1)
@@ -332,7 +354,7 @@ var streamgraph = function(csv) {
       // call stack type
       // crowding0 = stack(crowding0);
       // crowding1 = stack(crowding1);
-      transition(crowding0);
+      transition(crowding1);
     });
 };
 
@@ -358,14 +380,17 @@ var heatmapChart = function(tsvFile) {
     },
     // call back
     function(error, data) {
-      const distinctPairs = [...new Set(data.map(x => x.stoppair))];
+      data = data;
       const distinctStopID = [...new Set(data.map(x => x.day))];
+      console.log(distinctStopID);
+      const distinctPairs = [...new Set(data.map(x => x.stoppair))];
+  //    const distinctStopID = [...new Set(data.map(x => x.day))];
       const distinctValues = [...new Set(data.map(x => x.value))];
       const distinctCheck =  [...new Set(data.map(x => x.checkpoint))];
       console.log(distinctCheck);
       days = distinctStopID;
       gridSizeY = Math.floor(height / distinctStopID.length);
-      console.log(distinctPairs);
+      // console.log(distinctPairs);
       // make svg in the chart div
       var svg = d3.select("#chart").append("svg")
         .attr("width", width + margin.left + margin.right)
@@ -380,7 +405,7 @@ var heatmapChart = function(tsvFile) {
         .enter().append("text")
         // anonymous function
         // TO DO: either get rid of this or make it a real function
-        .text(function(d) {
+        .text(function(d, i) {
           return d.checkpoint;
         })
         .attr("x", -15)
@@ -510,7 +535,15 @@ var heatmapChart = function(tsvFile) {
           div.transition()
             .duration(100)
             .style("opacity", 1);
-          div.html(d.value.toFixed(2) + " UPH")
+          div.html((d.value*60).toFixed(2) + " UPM")
+            .style("left", (d3.event.pageX + 10) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");
+        })
+        .on("mousemove", function(d) {
+          div.transition()
+            .duration(100)
+            .style("opacity", 1);
+            div.html((d.value*60).toFixed(2) + " UPM")
             .style("left", (d3.event.pageX + 10) + "px")
             .style("top", (d3.event.pageY - 28) + "px");
         })
@@ -523,7 +556,7 @@ var heatmapChart = function(tsvFile) {
     });
 };
 
-streamgraph("../streamgraph/1bysource.csv");
+streamgraph("../streamgraph/9bysource.csv");
 // call heatmap on the tsv for the 111
 heatmapChart(datasets[0]);
 
